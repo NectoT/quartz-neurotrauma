@@ -1,4 +1,4 @@
-![liver.png\|200](./Liver%20Transplant%20-%20Attachments/680728d18be9f63619eb39c0.png)
+![liver.png\|200](/Items/Liver%20Transplant%20-%20Attachments/680728d18be9f63619eb39c0.png)
 
 Original URL: https://trello.com/c/vHMko1qD
 

@@ -1,4 +1,4 @@
-![graph2.png](https://trello.com/1/cards/632d78ad42b6010054970665/attachments/632d78f61f079304ee30e414/download/graph2.png)
+![graph2.png](/Items/https:/trello.com/1/cards/632d78ad42b6010054970665/attachments/632d78f61f079304ee30e414/download/graph2.png)
 
 Original URL: https://trello.com/c/qDYaZ1Mj
 
@@ -10,7 +10,7 @@ The chance for these is depicted in this graph, with cyan being the chance to re
 
 At medical skill below 80, the [Manual Defibrillator](Manual%20Defibrillator.md) is worse in all regards. At 100 medical skill, the manual defibrillator is better in all regards.
 
-![graph2.png](https://trello.com/1/cards/632d78ad42b6010054970665/attachments/632d78f61f079304ee30e414/download/graph2.png)
+![graph2.png](/Items/https:/trello.com/1/cards/632d78ad42b6010054970665/attachments/632d78f61f079304ee30e414/download/graph2.png)
 
 ---
 

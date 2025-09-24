@@ -1,4 +1,4 @@
-![nitroprussy.png\|200](./Sodium%20Nitroprusside%20-%20Attachments/6718845db30472d958dd7c38.png)
+![nitroprussy.png\|200](/Items/Sodium%20Nitroprusside%20-%20Attachments/6718845db30472d958dd7c38.png)
 
 Original URL: https://trello.com/c/innFkRs4
 

@@ -1,4 +1,4 @@
-![tile028(2).png\|200](./Inflammation%20-%20Attachments/6718845db30472d958dd7b0d.png)
+![tile028(2).png\|200](/Symptoms/Inflammation%20-%20Attachments/6718845db30472d958dd7b0d.png)
 
 Original URL: https://trello.com/c/lmxaydFH
 

@@ -1,4 +1,4 @@
-![sprayer.png\|200](./Antiseptic%20Sprayer%20-%20Attachments/6718845db30472d958dd7d0c.png)
+![sprayer.png\|200](/Items/Antiseptic%20Sprayer%20-%20Attachments/6718845db30472d958dd7d0c.png)
 
 Original URL: https://trello.com/c/gnudHdH3
 

@@ -1,4 +1,4 @@
-![tile003(1).png\|200](./Respiratory%20Arrest%20-%20Attachments/6718845db30472d958dd7a4b.png)
+![tile003(1).png\|200](/Lungs/Respiratory%20Arrest%20-%20Attachments/6718845db30472d958dd7a4b.png)
 
 Original URL: https://trello.com/c/SzWw1NgI
 

@@ -1,4 +1,4 @@
-![tile006(2).png\|200](./Shortness%20of%20Breath%20-%20Attachments/6718845db30472d958dd7a63.png)
+![tile006(2).png\|200](/Symptoms/Shortness%20of%20Breath%20-%20Attachments/6718845db30472d958dd7a63.png)
 
 Original URL: https://trello.com/c/u1DGKXfK
 

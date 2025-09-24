@@ -1,4 +1,4 @@
-![immunosuppressant.png\|200](./Azathioprine%20-%20Attachments/6718845db30472d958dd7e05.png)
+![immunosuppressant.png\|200](/Items/Azathioprine%20-%20Attachments/6718845db30472d958dd7e05.png)
 
 Original URL: https://trello.com/c/WQIQ3sHg
 

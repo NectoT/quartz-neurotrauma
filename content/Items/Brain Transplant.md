@@ -1,4 +1,4 @@
-![brain.png\|200](./Brain%20Transplant%20-%20Attachments/680728605915e67fef28a6ea.png)
+![brain.png\|200](/Items/Brain%20Transplant%20-%20Attachments/680728605915e67fef28a6ea.png)
 
 Original URL: https://trello.com/c/mu9gFs00
 

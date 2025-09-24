@@ -1,4 +1,4 @@
-![Affliction_Opiate_Overdose.png\|200](./Opiate%20Overdose%20-%20Attachments/6718845db30472d958dd7c9d.png)
+![Affliction_Opiate_Overdose.png\|200](/Head_Brain/Opiate%20Overdose%20-%20Attachments/6718845db30472d958dd7c9d.png)
 
 Original URL: https://trello.com/c/RFGhuBSA
 

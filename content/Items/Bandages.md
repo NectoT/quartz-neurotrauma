@@ -1,4 +1,4 @@
-![image.png\|200](./Bandages%20-%20Attachments/6718845db30472d958dd7cb5.png)
+![image.png\|200](/Items/Bandages%20-%20Attachments/6718845db30472d958dd7cb5.png)
 
 Original URL: https://trello.com/c/u5unOSBh
 

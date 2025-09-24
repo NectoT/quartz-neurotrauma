@@ -1,4 +1,4 @@
-![tile010(2).png\|200](./Confusion%202%20-%20Attachments/671a42b4d1bd195aa72fe2a9.png)
+![tile010(2).png\|200](/Symptoms/Confusion%202%20-%20Attachments/671a42b4d1bd195aa72fe2a9.png)
 
 Original URL: https://trello.com/c/7g4LMyC5
 

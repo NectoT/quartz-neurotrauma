@@ -1,4 +1,4 @@
-![sutures (1).png\|200](./Sutures%20-%20Attachments/6718845db30472d958dd7bbd.png)
+![sutures (1).png\|200](/Items/Sutures%20-%20Attachments/6718845db30472d958dd7bbd.png)
 
 Original URL: https://trello.com/c/W3gipJ9T
 

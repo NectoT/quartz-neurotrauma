@@ -1,4 +1,4 @@
-![thiamine.png\|200](./Thiamine%20-%20Attachments/6718845db30472d958dd7d12.png)
+![thiamine.png\|200](/Items/Thiamine%20-%20Attachments/6718845db30472d958dd7d12.png)
 
 Original URL: https://trello.com/c/g2WXDC2X
 

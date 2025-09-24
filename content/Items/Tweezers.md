@@ -1,4 +1,4 @@
-![tweezer.png\|200](./Tweezers%20-%20Attachments/6718845db30472d958dd7c3e.png)
+![tweezer.png\|200](/Items/Tweezers%20-%20Attachments/6718845db30472d958dd7c3e.png)
 
 Original URL: https://trello.com/c/yKa2tTR5
 

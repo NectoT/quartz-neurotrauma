@@ -1,4 +1,4 @@
-![aantibio.png\|200](./Antibiotic%20Glue%20-%20Attachments/6718845db30472d958dd7d54.png)
+![aantibio.png\|200](/Items/Antibiotic%20Glue%20-%20Attachments/6718845db30472d958dd7d54.png)
 
 Original URL: https://trello.com/c/04os8H52
 

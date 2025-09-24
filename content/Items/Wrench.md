@@ -1,4 +1,4 @@
-![image.png\|200](./Wrench%20-%20Attachments/6718845db30472d958dd7bc3.png)
+![image.png\|200](/Items/Wrench%20-%20Attachments/6718845db30472d958dd7bc3.png)
 
 Original URL: https://trello.com/c/iiI1c0E9
 

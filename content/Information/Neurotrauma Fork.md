@@ -1,4 +1,4 @@
-![NT-thumb.jpg\|200](./Neurotrauma%20Fork%20-%20Attachments/6718d3e5473540f134cda043.jpg)
+![NT-thumb.jpg\|200](/Information/Neurotrauma%20Fork%20-%20Attachments/6718d3e5473540f134cda043.jpg)
 
 Original URL: https://trello.com/c/cgGMvJhS
 

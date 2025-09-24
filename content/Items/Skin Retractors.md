@@ -1,4 +1,4 @@
-![retractors.png\|200](./Skin%20Retractors%20-%20Attachments/6718845db30472d958dd7b93.png)
+![retractors.png\|200](/Items/Skin%20Retractors%20-%20Attachments/6718845db30472d958dd7b93.png)
 
 Original URL: https://trello.com/c/Kw9ovTrw
 

@@ -1,4 +1,4 @@
-![tile040.png\|200](./Liver%20Damage%20-%20Attachments/6718845db30472d958dd7b2b.png)
+![tile040.png\|200](/Torso/Liver%20Damage%20-%20Attachments/6718845db30472d958dd7b2b.png)
 
 Original URL: https://trello.com/c/97bKpUZ8
 

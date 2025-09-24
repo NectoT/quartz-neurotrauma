@@ -1,4 +1,4 @@
-![Diving Knife.png\|200](./Diving%20Knife%20-%20Attachments/6718845db30472d958dd7e27.png)
+![Diving Knife.png\|200](/Items/Diving%20Knife%20-%20Attachments/6718845db30472d958dd7e27.png)
 
 Original URL: https://trello.com/c/copwCkOR
 

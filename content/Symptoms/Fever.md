@@ -1,4 +1,4 @@
-![tile016(2).png\|200](./Fever%20-%20Attachments/6718845db30472d958dd7aab.png)
+![tile016(2).png\|200](/Symptoms/Fever%20-%20Attachments/6718845db30472d958dd7aab.png)
 
 Original URL: https://trello.com/c/gtYt64Cs
 

@@ -1,4 +1,4 @@
-![image.png](./Organ%20Rejection%20-%20Attachments/6810ae34113758a241fa3235.png)
+![image.png](/Blood/Organ%20Rejection%20-%20Attachments/6810ae34113758a241fa3235.png)
 
 Original URL: https://trello.com/c/eASQMPVw
 
@@ -12,7 +12,7 @@ Reducing [Immunity](Immunity.md).
 
 At 100% [Immunity](Immunity.md), the chance for organ rejection is 60%. The formula, where 1 is 100%, is as follows:
 
-![image.png](./Organ%20Rejection%20-%20Attachments/6810ae34113758a241fa3235.png)
+![image.png](/Blood/Organ%20Rejection%20-%20Attachments/6810ae34113758a241fa3235.png)
 
 ---
 

@@ -1,4 +1,4 @@
-![tile123.png\|200](./Naloxone%20-%20Attachments/6718845db30472d958dd7d9c.png)
+![tile123.png\|200](/Items/Naloxone%20-%20Attachments/6718845db30472d958dd7d9c.png)
 
 Original URL: https://trello.com/c/ogAtkfJW
 

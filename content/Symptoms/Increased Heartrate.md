@@ -1,4 +1,4 @@
-![tile009(2).png\|200](./Increased%20Heartrate%20-%20Attachments/6718845db30472d958dd7a75.png)
+![tile009(2).png\|200](/Symptoms/Increased%20Heartrate%20-%20Attachments/6718845db30472d958dd7a75.png)
 
 Original URL: https://trello.com/c/vpiY0xiC
 

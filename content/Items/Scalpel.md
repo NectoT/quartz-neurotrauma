@@ -1,4 +1,4 @@
-![scalpel.png\|200](./Scalpel%20-%20Attachments/6718845db30472d958dd7b75.png)
+![scalpel.png\|200](/Items/Scalpel%20-%20Attachments/6718845db30472d958dd7b75.png)
 
 Original URL: https://trello.com/c/YYTeDOEZ
 

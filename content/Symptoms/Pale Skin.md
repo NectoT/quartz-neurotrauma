@@ -1,4 +1,4 @@
-![paleskin.png\|200](./Pale%20Skin%20-%20Attachments/6718845db30472d958dd7a39.png)
+![paleskin.png\|200](/Symptoms/Pale%20Skin%20-%20Attachments/6718845db30472d958dd7a39.png)
 
 Original URL: https://trello.com/c/k4sG8x7N
 

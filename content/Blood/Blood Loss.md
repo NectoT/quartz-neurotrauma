@@ -1,4 +1,4 @@
-![bloodloss.png\|200](./Blood%20Loss%20-%20Attachments/6718845db30472d958dd7b1f.png)
+![bloodloss.png\|200](/Blood/Blood%20Loss%20-%20Attachments/6718845db30472d958dd7b1f.png)
 
 Original URL: https://trello.com/c/L4zDDDos
 

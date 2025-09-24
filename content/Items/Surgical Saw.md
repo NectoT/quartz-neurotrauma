@@ -1,4 +1,4 @@
-![saw.png\|200](./Surgical%20Saw%20-%20Attachments/6718845db30472d958dd7c06.png)
+![saw.png\|200](/Items/Surgical%20Saw%20-%20Attachments/6718845db30472d958dd7c06.png)
 
 Original URL: https://trello.com/c/9rzGQU9g
 

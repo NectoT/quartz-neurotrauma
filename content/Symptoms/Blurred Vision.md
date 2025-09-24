@@ -1,4 +1,4 @@
-![tile011(2).png\|200](./Blurred%20Vision%20-%20Attachments/6718845db30472d958dd7a87.png)
+![tile011(2).png\|200](/Symptoms/Blurred%20Vision%20-%20Attachments/6718845db30472d958dd7a87.png)
 
 Original URL: https://trello.com/c/WU0QMxUs
 

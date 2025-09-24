@@ -1,4 +1,4 @@
-![antiseptic.png\|200](./Antiseptic%20-%20Attachments/6718845db30472d958dd7d06.png)
+![antiseptic.png\|200](/Items/Antiseptic%20-%20Attachments/6718845db30472d958dd7d06.png)
 
 Original URL: https://trello.com/c/r9tCsgBr
 

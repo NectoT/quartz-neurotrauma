@@ -1,4 +1,4 @@
-![arm.png\|200](./Arm%20(Bionic%20_%20Severed)%20-%20Attachments/6804619b747b75437de0a3eb.png)
+![arm.png\|200](/Items/Arm%20(Bionic%20_%20Severed)%20-%20Attachments/6804619b747b75437de0a3eb.png)
 
 Original URL: https://trello.com/c/SpJbcxVq
 

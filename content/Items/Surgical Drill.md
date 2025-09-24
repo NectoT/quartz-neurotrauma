@@ -1,4 +1,4 @@
-![surgicaldrill.png\|200](./Surgical%20Drill%20-%20Attachments/6718845db30472d958dd7ba5.png)
+![surgicaldrill.png\|200](/Items/Surgical%20Drill%20-%20Attachments/6718845db30472d958dd7ba5.png)
 
 Original URL: https://trello.com/c/uPXsKGUL
 

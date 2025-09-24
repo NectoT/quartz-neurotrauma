@@ -1,4 +1,4 @@
-![electronic.png\|200](./Damaged%20Electronics%20-%20Attachments/6718845db30472d958dd7ded.png)
+![electronic.png\|200](/Cybernetics Expansion (Needs images)/Damaged%20Electronics%20-%20Attachments/6718845db30472d958dd7ded.png)
 
 Original URL: https://trello.com/c/I0LS7l4j
 

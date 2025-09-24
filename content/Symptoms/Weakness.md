@@ -1,4 +1,4 @@
-![tile013(2).png\|200](./Weakness%20-%20Attachments/6718845db30472d958dd7a99.png)
+![tile013(2).png\|200](/Symptoms/Weakness%20-%20Attachments/6718845db30472d958dd7a99.png)
 
 Original URL: https://trello.com/c/rPuAPJja
 

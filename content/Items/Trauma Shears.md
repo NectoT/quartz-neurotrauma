@@ -1,4 +1,4 @@
-![shears.png\|200](./Trauma%20Shears%20-%20Attachments/6718845db30472d958dd7cfa.png)
+![shears.png\|200](/Items/Trauma%20Shears%20-%20Attachments/6718845db30472d958dd7cfa.png)
 
 Original URL: https://trello.com/c/HZDWVfgd
 

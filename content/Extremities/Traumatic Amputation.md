@@ -1,4 +1,4 @@
-![tile049(1).png\|200](./Traumatic%20Amputation%20-%20Attachments/6718845db30472d958dd7b13.png)
+![tile049(1).png\|200](/Extremities/Traumatic%20Amputation%20-%20Attachments/6718845db30472d958dd7b13.png)
 
 Original URL: https://trello.com/c/8sYpoJcP
 
