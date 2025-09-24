@@ -1,3 +1,10 @@
+---
+tags:
+- Visible-on-Health-Interface
+- Non-Lethal
+- Affliction
+---
+
 ![tile023(1).png\|200](/Symptoms/Spasms%20-%20Attachments/6718845db30472d958dd7e2d.png)
 
 Original URL: https://trello.com/c/PBuVE347

@@ -1,3 +1,10 @@
+---
+tags:
+- Mechanic
+- Visible-on-Hematology-Analyzer
+- Very-Important
+---
+
 ![Affliction_Vigor.png\|200](/Blood/Immunity%20-%20Attachments/68045fa643aed3434fea0462.png)
 
 Original URL: https://trello.com/c/JeNA5Hjp

@@ -1,3 +1,11 @@
+---
+tags:
+- Visible-on-Health-Interface
+- Affliction
+- Visible-on-Scanner
+- Lethality-Depends
+---
+
 ![openwounds.png\|200](/Any bodypart/Open%20Wounds%20-%20Attachments/6811a40d40bd2c556f856fb9.png)
 
 Original URL: https://trello.com/c/RWzQPcQe

@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- First-Aid
+- Important
+---
+
 ![tile171.png\|200](/Items/Liquid%20Oxygenite%20-%20Attachments/6718845db30472d958dd7d5a.png)
 
 Original URL: https://trello.com/c/KFG3w91y

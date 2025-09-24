@@ -1,3 +1,9 @@
+---
+tags:
+- Non-Lethal
+- Visible-on-Scanner
+---
+
 ![tile031.png\|200](/Bones/Bone%20Death%20-%20Attachments/6718845db30472d958dd7c12.png)
 
 Original URL: https://trello.com/c/gmYMZ7Oi

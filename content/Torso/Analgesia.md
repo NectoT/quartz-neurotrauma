@@ -1,3 +1,10 @@
+---
+tags:
+- Non-Lethal
+- Affliction
+- Visible-on-Health-Interface
+---
+
 ![analgesia.png\|200](/Torso/Analgesia%20-%20Attachments/6718845db30472d958dd7b63.png)
 
 Original URL: https://trello.com/c/vnbRSZz6

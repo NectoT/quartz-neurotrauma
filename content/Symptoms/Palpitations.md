@@ -1,3 +1,10 @@
+---
+tags:
+- Visible-on-Health-Interface
+- Non-Lethal
+- Affliction
+---
+
 ![palpatinefromstarwars.png\|200](/Symptoms/Palpitations%20-%20Attachments/6718845db30472d958dd7c7a.png)
 
 Original URL: https://trello.com/c/qXmQZIoy

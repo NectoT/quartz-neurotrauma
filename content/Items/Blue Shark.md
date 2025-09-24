@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- Niche
+- Very-Important
+---
+
 ![blahaj.png\|200](/Items/Blue%20Shark%20-%20Attachments/6718845db30472d958dd7e39.png)
 
 Original URL: https://trello.com/c/FIyrhImO

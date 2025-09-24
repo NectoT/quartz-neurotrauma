@@ -1,3 +1,10 @@
+---
+tags:
+- Lethal
+- Affliction
+- Visible-on-Scanner
+---
+
 ![oxygen.png\|200](/Blood/Hypoxemia%20-%20Attachments/6718845db30472d958dd7bc9.png)
 
 Original URL: https://trello.com/c/IqjBLsvZ

@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Niche
+---
+
 ![bodybag.png\|200](/Items/Body%20Bag%20-%20Attachments/6718845db30472d958dd7d90.png)
 
 Original URL: https://trello.com/c/pB5F9pHm

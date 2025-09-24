@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Visible-on-Health-Interface
+- Surgery
+---
+
 ![arteriesclamp.png\|200](/Extremities/Clamped%20Bleeding%20-%20Attachments/680465210c7424bd31bbff8d.png)
 
 Original URL: https://trello.com/c/LkIk7Xwu

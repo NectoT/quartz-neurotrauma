@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Visible-on-Scanner
+- Lethality-Depends
+---
+
 ![tile028.png\|200](/Any bodypart/Infected%20Wounds%20-%20Attachments/6718845db30472d958dd7c86.png)
 
 Original URL: https://trello.com/c/PjAAGvjn

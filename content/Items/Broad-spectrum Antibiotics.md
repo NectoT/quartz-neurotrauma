@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- First-Aid
+- Essential
+---
+
 ![antibio2.png\|200](/Items/Broad-spectrum%20Antibiotics%20-%20Attachments/6718845db30472d958dd7d60.png)
 
 Original URL: https://trello.com/c/Kag4nsK5

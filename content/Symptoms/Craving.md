@@ -1,3 +1,11 @@
+---
+tags:
+- Affliction
+- Non-Lethal
+- Mental-Symptom
+- Visible-on-Health-Interface
+---
+
 ![addiction.png\|200](/Symptoms/Craving%20-%20Attachments/6718845db30472d958dd7c4a.png)
 
 Original URL: https://trello.com/c/kMQIjPAT

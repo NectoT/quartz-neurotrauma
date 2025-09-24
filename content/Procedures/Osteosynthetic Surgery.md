@@ -1,3 +1,9 @@
+---
+tags:
+- Surgery
+- Procedure
+---
+
 ![tile034(3).png\|200](/Procedures/Osteosynthetic%20Surgery%20-%20Attachments/6718845db30472d958dd7bdc.png)
 
 Original URL: https://trello.com/c/HELP0b39

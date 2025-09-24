@@ -1,3 +1,11 @@
+---
+tags:
+- Affliction
+- Visible-on-Health-Interface
+- Non-Lethal
+- Cybernetics-Expansion
+---
+
 ![bent.png\|200](/Cybernetics Expansion (Needs images)/Bent%20Metal%20-%20Attachments/6718845db30472d958dd7df3.png)
 
 Original URL: https://trello.com/c/hp2cYZhn

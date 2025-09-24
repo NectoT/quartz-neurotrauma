@@ -1,3 +1,10 @@
+---
+tags:
+- Visible-on-Hematology-Analyzer
+- Affliction
+- Non-Lethal
+---
+
 ![tile027(2).png\|200](/Blood/Acidosis%20-%20Attachments/6718845db30472d958dd7ae1.png)
 
 Original URL: https://trello.com/c/Zyo6rMxL

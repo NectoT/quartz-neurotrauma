@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- First-Aid
+- Niche
+---
+
 ![tile199.png\|200](/Items/Alien%20Blood%20-%20Attachments/6718845db30472d958dd7d48.png)
 
 Original URL: https://trello.com/c/fS8GXZpl

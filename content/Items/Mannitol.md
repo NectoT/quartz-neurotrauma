@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Important
+---
+
 ![mannitol.png\|200](/Items/Mannitol%20-%20Attachments/6718845db30472d958dd7c56.png)
 
 Original URL: https://trello.com/c/6V4emjH5

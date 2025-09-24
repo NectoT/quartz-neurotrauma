@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- Niche
+- Cybernetics-Expansion
+---
+
 ![Cyberleg.png\|200](/Cybernetics Expansion (Needs images)/Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png)
 
 Original URL: https://trello.com/c/1hY5nRPU

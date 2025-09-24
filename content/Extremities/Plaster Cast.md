@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Non-Lethal
+- Visible-on-Health-Interface
+---
+
 ![cast.png\|200](//Extremities/Plaster%20Cast%20-%20Attachments/6718845db30472d958dd7e71.png)
 
 Original URL: https://trello.com/c/lZCWqJbI

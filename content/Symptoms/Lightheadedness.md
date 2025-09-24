@@ -1,3 +1,11 @@
+---
+tags:
+- Visible-on-Health-Interface
+- Affliction
+- Non-Lethal
+- Mental-Symptom
+---
+
 ![lighthead.png\|200](/Symptoms/Lightheadedness%20-%20Attachments/6718845db30472d958dd7a81.png)
 
 Original URL: https://trello.com/c/Zw1eJknd

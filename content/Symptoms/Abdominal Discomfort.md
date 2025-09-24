@@ -1,3 +1,11 @@
+---
+tags:
+- Non-Lethal
+- Visible-on-Health-Interface
+- Affliction
+- Mental-Symptom
+---
+
 ![tile017(2).png\|200](/Symptoms/Abdominal%20Discomfort%20-%20Attachments/6718845db30472d958dd7b3d.png)
 
 Original URL: https://trello.com/c/GCaxH0hA

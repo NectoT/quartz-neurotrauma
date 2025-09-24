@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- Important
+- Surgery-Plus-Expansion
+---
+
 ![SurgicalMask.png\|200](/Surgery Plus Expansion/Surgical%20Mask%20-%20Attachments/6718845db30472d958dd7dcf.png)
 
 Original URL: https://trello.com/c/LYQLdltn

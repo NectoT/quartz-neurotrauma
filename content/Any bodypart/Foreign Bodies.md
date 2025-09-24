@@ -1,3 +1,10 @@
+---
+tags:
+- Visible-on-Scanner
+- Affliction
+- Lethality-Depends
+---
+
 ![NT\_foreign\_bodies.png](/Any bodypart/https:/trello.com/1/cards/632c37ecf83eee01ac60baaa/attachments/647c6673dbcfcbc5a451a716/download/NT_foreign_bodies.png)
 
 Original URL: https://trello.com/c/aKt3QfJB

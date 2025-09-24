@@ -1,3 +1,10 @@
+---
+tags:
+- Visible-on-Health-Interface
+- Affliction
+- Non-Lethal
+---
+
 ![tile005(2).png\|200](/Lungs/Hypoventilation%20-%20Attachments/6718845db30472d958dd7a5d.png)
 
 Original URL: https://trello.com/c/52y70NBI

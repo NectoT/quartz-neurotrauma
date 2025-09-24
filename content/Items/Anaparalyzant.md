@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Niche
+---
+
 ![tile191.png\|200](/Items/Anaparalyzant%20-%20Attachments/6718845db30472d958dd7d96.png)
 
 Original URL: https://trello.com/c/TmqQkhux

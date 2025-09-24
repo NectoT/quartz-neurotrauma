@@ -1,3 +1,10 @@
+---
+tags:
+- Non-Lethal
+- Affliction
+- Visible-on-Health-Interface
+---
+
 ![tile049.png\|200](/Extremities/Surgical%20Amputation%20-%20Attachments/6718845db30472d958dd7b19.png)
 
 Original URL: https://trello.com/c/d6VVIPD0

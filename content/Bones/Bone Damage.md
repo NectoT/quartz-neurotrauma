@@ -1,3 +1,10 @@
+---
+tags:
+- Non-Lethal
+- Affliction
+- Visible-on-Scanner
+---
+
 ![tile061.png\|200](/Bones/Bone%20Damage%20-%20Attachments/6718845db30472d958dd7c18.png)
 
 Original URL: https://trello.com/c/n9XZxuCl

@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- First-Aid
+- Important
+---
+
 ![ambubag.png\|200](/Items/Ambubag%20-%20Attachments/6718845db30472d958dd7d18.png)
 
 Original URL: https://trello.com/c/Iqy8QLcW

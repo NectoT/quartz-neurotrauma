@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Lethal
+- Visible-on-Scanner
+---
+
 ![tile027(1).png\|200](/Blood/Hemotransfusion%20Shock%20-%20Attachments/6718845db30472d958dd7ad5.png)
 
 Original URL: https://trello.com/c/vDQOQ8zT

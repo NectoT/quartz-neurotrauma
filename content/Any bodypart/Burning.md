@@ -1,3 +1,9 @@
+---
+tags:
+- Affliction
+- Not-Visible-Ingame
+---
+
 
 
 Original URL: https://trello.com/c/ufZ6llUR

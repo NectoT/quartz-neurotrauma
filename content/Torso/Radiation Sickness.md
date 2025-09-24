@@ -1,3 +1,10 @@
+---
+tags:
+- Lethal
+- Visible-on-Scanner
+- Affliction
+---
+
 ![radiationsickness (1).png\|200](/Torso/Radiation%20Sickness%20-%20Attachments/6718845db30472d958dd7b69.png)
 
 Original URL: https://trello.com/c/1yo4Cw2c

@@ -1,3 +1,11 @@
+---
+tags:
+- Lethal
+- Affliction
+- Visible-on-Health-Interface
+- Visible-on-Scanner
+---
+
 ![tile008(1).png\|200](/Heart/Cardiac%20Arrest%20-%20Attachments/6718845db30472d958dd7a6f.png)
 
 Original URL: https://trello.com/c/4VaE7S7M

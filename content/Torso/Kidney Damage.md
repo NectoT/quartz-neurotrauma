@@ -1,3 +1,10 @@
+---
+tags:
+- Visible-on-Scanner
+- Affliction
+- Lethality-Depends
+---
+
 ![tile042.png\|200](/Torso/Kidney%20Damage%20-%20Attachments/6718845db30472d958dd7b25.png)
 
 Original URL: https://trello.com/c/LhhaWEbe

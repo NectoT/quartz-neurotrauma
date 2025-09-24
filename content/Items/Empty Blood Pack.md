@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Important
+---
+
 ![emptybloodpack.png\|200](/Items/Empty%20Blood%20Pack%20-%20Attachments/6718845db30472d958dd7bf4.png)
 
 Original URL: https://trello.com/c/rRcLduCr

@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- Surgery
+- Essential
+---
+
 ![retractors.png\|200](/Items/Skin%20Retractors%20-%20Attachments/6718845db30472d958dd7b93.png)
 
 Original URL: https://trello.com/c/Kw9ovTrw
