@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- Important
+- First-Aid
+---
+
 ![stasis.png\|200](/Items/Stasis%20Bag%20-%20Attachments/6718845db30472d958dd7d3c.png)
 
 Original URL: https://trello.com/c/sSEcdyRT

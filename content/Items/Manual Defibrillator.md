@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Very-Important
+---
+
 ![graph.png](/Items/https:/trello.com/1/cards/632d76e03ce73b033c01e1e8/attachments/632d7869a3557a0052338185/download/graph.png)
 
 Original URL: https://trello.com/c/dEiw6dId

@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Visible-on-Health-Interface
+- Non-Lethal
+---
+
 ![tile015(2).png\|200](/Symptoms/Nausea%20-%20Attachments/6718845db30472d958dd7b6f.png)
 
 Original URL: https://trello.com/c/ROKrSLSE

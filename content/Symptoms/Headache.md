@@ -1,3 +1,11 @@
+---
+tags:
+- Affliction
+- Non-Lethal
+- Visible-on-Health-Interface
+- Mental-Symptom
+---
+
 ![headache.png\|200](/Symptoms/Headache%20-%20Attachments/6718845db30472d958dd7b57.png)
 
 Original URL: https://trello.com/c/5nbrCENm

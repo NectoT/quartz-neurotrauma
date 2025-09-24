@@ -1,3 +1,11 @@
+---
+tags:
+- Niche
+- Affliction
+- Lethal
+- Visible-on-Scanner
+---
+
 ![image_2022-10-04_130241884.png\|200](/Torso/Cyanide%20Poisoning%20-%20Attachments/6718845db30472d958dd7d66.png)
 
 Original URL: https://trello.com/c/6W5QdFGa

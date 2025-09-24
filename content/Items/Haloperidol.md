@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Niche
+---
+
 ![Haloperidol_icon.png\|200](/Items/Haloperidol%20-%20Attachments/680465a7f1cc3fbefe2590c0.png)
 
 Original URL: https://trello.com/c/M18V7Ola

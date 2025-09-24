@@ -1,3 +1,12 @@
+---
+tags:
+- Visible-on-Health-Interface
+- Non-Lethal
+- Affliction
+- Cybernetics-Expansion
+- Item
+---
+
 ![screws.png\|200](/Cybernetics Expansion (Needs images)/Loose%20Screws%20-%20Attachments/6718845db30472d958dd7df9.png)
 
 Original URL: https://trello.com/c/lRIOAnzG

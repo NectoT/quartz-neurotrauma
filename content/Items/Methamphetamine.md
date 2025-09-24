@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Niche
+---
+
 ![tile120.png\|200](/Items/Methamphetamine%20-%20Attachments/6718845db30472d958dd7d78.png)
 
 Original URL: https://trello.com/c/QYLcVZJU

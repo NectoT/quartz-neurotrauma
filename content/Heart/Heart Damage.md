@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Visible-on-Scanner
+- Lethality-Depends
+---
+
 ![tile043.png\|200](/Heart/Heart%20Damage%20-%20Attachments/6718845db30472d958dd7af5.png)
 
 Original URL: https://trello.com/c/zMwKmGXx

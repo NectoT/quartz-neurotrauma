@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Essential
+---
+
 ![bloodpacks.png\|200](/Items/Blood%20Packs%20-%20Attachments/6718845db30472d958dd7bed.png)
 
 Original URL: https://trello.com/c/KhGkEGIv

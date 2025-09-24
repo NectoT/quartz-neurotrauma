@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Visible-on-Health-Interface
+- Non-Lethal
+---
+
 ![tile015(1).png\|200](/Symptoms/Vomiting%20Blood%20-%20Attachments/6718845db30472d958dd7bb1.png)
 
 Original URL: https://trello.com/c/UbkFOLK1

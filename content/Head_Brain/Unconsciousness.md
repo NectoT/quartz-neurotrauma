@@ -1,3 +1,10 @@
+---
+tags:
+- Non-Lethal
+- Affliction
+- Visible-on-Health-Interface
+---
+
 ![tile019(1).png\|200](/Head_Brain/Unconsciousness%20-%20Attachments/6718845db30472d958dd7ac3.png)
 
 Original URL: https://trello.com/c/ZvVedZCY

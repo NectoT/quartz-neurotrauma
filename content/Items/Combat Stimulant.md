@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- First-Aid
+- Niche
+---
+
 ![image_2022-10-04_141406974.png\|200](/Items/Combat%20Stimulant%20-%20Attachments/6718845db30472d958dd7d84.png)
 
 Original URL: https://trello.com/c/0aLct5Ay

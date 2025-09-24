@@ -1,3 +1,10 @@
+---
+tags:
+- Lethal
+- Visible-on-Scanner
+- Affliction
+---
+
 ![Affliction_Oxygen_Low.png\|200](/Lungs/Oxygen%20Low%20-%20Attachments/6718845db30472d958dd7e6b.png)
 
 Original URL: https://trello.com/c/vCPGXvvI

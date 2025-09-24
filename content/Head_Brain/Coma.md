@@ -1,3 +1,10 @@
+---
+tags:
+- Affliction
+- Non-Lethal
+- Visible-on-Scanner
+---
+
 ![tile001.png\|200](/Head_Brain/Coma%20-%20Attachments/6718845db30472d958dd7b51.png)
 
 Original URL: https://trello.com/c/kFlmjwBv

@@ -1,3 +1,11 @@
+---
+tags:
+- Visible-on-Health-Interface
+- Visible-on-Scanner
+- Affliction
+- Lethality-Depends
+---
+
 ![Affliction Organ Damage.png\|200](/Torso/Vanilla%20Organ%20Damage%20-%20Attachments/6718845db30472d958dd7e40.png)
 
 Original URL: https://trello.com/c/HYOwZ1ly

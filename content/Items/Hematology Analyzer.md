@@ -1,3 +1,9 @@
+---
+tags:
+- Item
+- Essential
+---
+
 ![analyzer.png\|200](/Items/Hematology%20Analyzer%20-%20Attachments/6718845db30472d958dd7d1e.png)
 
 Original URL: https://trello.com/c/PU72uy2h

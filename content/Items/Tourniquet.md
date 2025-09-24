@@ -1,3 +1,10 @@
+---
+tags:
+- Item
+- First-Aid
+- Very-Important
+---
+
 ![tourniquet.png\|200](/Items/Tourniquet%20-%20Attachments/6718845db30472d958dd7c62.png)
 
 Original URL: https://trello.com/c/Z5y3el1i

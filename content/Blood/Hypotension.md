@@ -1,3 +1,9 @@
+---
+tags:
+- Mechanic
+- Lethality-Depends
+---
+
 ![tile021(3).png\|200](/Blood/Hypotension%20-%20Attachments/6718845db30472d958dd7ac9.png)
 
 Original URL: https://trello.com/c/Wpg88aMl
