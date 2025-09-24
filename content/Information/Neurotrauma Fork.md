@@ -1,4 +1,4 @@
-# Neurotrauma Fork
+![NT-thumb.jpg\|200](./Neurotrauma%20Fork%20-%20Attachments/6718d3e5473540f134cda043.jpg)
 
 Original URL: https://trello.com/c/cgGMvJhS
 
@@ -14,8 +14,3 @@ If you have any further questions or want to participate in mod development you 
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718d3e5473540f134cda043](./Neurotrauma%20Fork%20-%20Attachments/6718d3e5473540f134cda043.jpg) | NT-thumb.jpg | ![NT-thumb.jpg\|200](./Neurotrauma%20Fork%20-%20Attachments/6718d3e5473540f134cda043.jpg)

@@ -1,4 +1,4 @@
-# Brain Jar
+![Brain Jar.png\|200](./Brain%20Jar%20-%20Attachments/6718845db30472d958dd7de1.png)
 
 Original URL: https://trello.com/c/BgN76dod
 
@@ -8,8 +8,3 @@ The Brain Jar is a talent item unlockable by the Surgeon. Unlike refrigerated co
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7de1](./Brain%20Jar%20-%20Attachments/6718845db30472d958dd7de1.png) | Brain_Jar.png | ![Brain Jar.png\|200](./Brain%20Jar%20-%20Attachments/6718845db30472d958dd7de1.png)

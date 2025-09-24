@@ -1,4 +1,4 @@
-# Bandages
+![image.png\|200](./Bandages%20-%20Attachments/6718845db30472d958dd7cb5.png)
 
 Original URL: https://trello.com/c/u5unOSBh
 
@@ -10,18 +10,13 @@ Bandages used for covering wounds to prevent infection. Bandages can also stabil
 
 ### Application success:
 
-\+50% [[Bandaged](../Any%20bodypart/Bandaged.md)]([Bandaged](../Any%20bodypart/Bandaged.md) "smartCard-inline")
+\+50% [Bandaged](../Any%20bodypart/Bandaged.md)
 \-24% bleeding
 
 ### Application failure:
 
-\+36% [[Bandaged](../Any%20bodypart/Bandaged.md)]([Bandaged](../Any%20bodypart/Bandaged.md) "smartCard-inline")
+\+36% [Bandaged](../Any%20bodypart/Bandaged.md)
 \-18% bleeding
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7cb5](./Bandages%20-%20Attachments/6718845db30472d958dd7cb5.png) | image.png | ![image.png\|200](./Bandages%20-%20Attachments/6718845db30472d958dd7cb5.png)

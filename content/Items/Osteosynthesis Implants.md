@@ -1,4 +1,4 @@
-# Osteosynthesis Implants
+![osteo.png\|200](./Osteosynthesis%20Implants%20-%20Attachments/6718845db30472d958dd7bfa.png)
 
 Original URL: https://trello.com/c/FcEQtNS0
 
@@ -6,7 +6,7 @@ Original URL: https://trello.com/c/FcEQtNS0
 
 ### Medical skill check: 45
 
-The sixth step in [[Osteosynthetic Surgery](../Procedures/Osteosynthetic%20Surgery.md)]([Osteosynthetic Surgery](../Procedures/Osteosynthetic%20Surgery.md) "smartCard-inline"). The implants will **not** work without 100% [[Drilled Bones](../Surgery/Drilled%20Bones.md)]([Drilled Bones](../Surgery/Drilled%20Bones.md) "smartCard-inline").
+The sixth step in [Osteosynthetic Surgery](../Procedures/Osteosynthetic%20Surgery.md).
 
 ### Application success:
 
@@ -14,13 +14,8 @@ Cures all fractures on the limb the implants were used on, and uses up 25% of th
 
 ### Application failure:
 
-\+5% [[Bleeding](../Any%20bodypart/Bleeding.md)]([Bleeding](../Any%20bodypart/Bleeding.md) "smartCard-inline")
-\+5% [[Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)]([Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md) "smartCard-inline")
+\+5% [Bleeding](../Any%20bodypart/Bleeding.md)
+\+5% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7bfa](./Osteosynthesis%20Implants%20-%20Attachments/6718845db30472d958dd7bfa.png) | osteo.png | ![osteo.png\|200](./Osteosynthesis%20Implants%20-%20Attachments/6718845db30472d958dd7bfa.png)

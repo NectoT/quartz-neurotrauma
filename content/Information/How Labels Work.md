@@ -1,4 +1,4 @@
-# How Labels Work
+
 
 Original URL: https://trello.com/c/G1Rz0EbX
 

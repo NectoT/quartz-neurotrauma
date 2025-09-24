@@ -1,4 +1,4 @@
-# Vomiting Blood
+![tile015(1).png\|200](./Vomiting%20Blood%20-%20Attachments/6718845db30472d958dd7bb1.png)
 
 Original URL: https://trello.com/c/UbkFOLK1
 
@@ -10,14 +10,9 @@ Vomiting blood is a symptom, which means that it isn't fatal and doesn't cause a
 
 ## Caused by:
 
-- [[Internal Bleeding](../Torso/Internal%20Bleeding.md)]([Internal Bleeding](../Torso/Internal%20Bleeding.md) "smartCard-inline") (50% or more)
-- [[Liver Damage](../Torso/Liver%20Damage.md)]([Liver Damage](../Torso/Liver%20Damage.md) "smartCard-inline") (at 100%)
-- [[Anesthesia](../Torso/Anesthesia.md)]([Anesthesia](../Torso/Anesthesia.md) "smartCard-inline")
+- [Internal Bleeding](../Torso/Internal%20Bleeding.md)
+- [Liver Damage](../Torso/Liver%20Damage.md)
+- [Anesthesia](../Torso/Anesthesia.md)
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7bb1](./Vomiting%20Blood%20-%20Attachments/6718845db30472d958dd7bb1.png) | tile015(1).png | ![tile015(1).png\|200](./Vomiting%20Blood%20-%20Attachments/6718845db30472d958dd7bb1.png)

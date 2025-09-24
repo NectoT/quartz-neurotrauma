@@ -1,4 +1,4 @@
-# Cyberliver
+
 
 Original URL: https://trello.com/c/OEuG8ZSK
 
@@ -10,8 +10,8 @@ Available as a more affordable Cyber-augmented Liver (half meat, half silicon) c
 
 ### Advantages of Cyberlivers:
 
-- Resistant to poisons, toxins, and [[Nausea](../Symptoms/Nausea.md)]([Nausea](../Symptoms/Nausea.md) "smartCard-inline")
-- Resistant to [[Liver Damage](../Torso/Liver%20Damage.md)]([Liver Damage](../Torso/Liver%20Damage.md) "smartCard-inline")
+- Resistant to poisons, toxins, and [Nausea](../Symptoms/Nausea.md)
+- Resistant to [Liver Damage](../Torso/Liver%20Damage.md)
 
 #### Disadvantages of Cyberorgans:
 
@@ -19,7 +19,7 @@ Available as a more affordable Cyber-augmented Liver (half meat, half silicon) c
 
 ## How to add:
 
-Do [[Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md)]([Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md) "smartCard-inline"), using the Cyberliver instead of a feeble meat liver. Consider refrigerating the procured meat for upgrading into a Cyber-augmented Liver.
+Do [Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md), using the Cyberliver instead of a feeble meat liver. Consider refrigerating the procured meat for upgrading into a Cyber-augmented Liver.
 
 #### Mechanical skill requirement: 60
 
@@ -27,16 +27,16 @@ Medical/Surgical skill requirement: 70
 
 #### Application Success:
 
-Installs the cyberorgan, healing that organ’s damage and some [[Vanilla Organ Damage](../Torso/Vanilla%20Organ%20Damage.md)]([Vanilla Organ Damage](../Torso/Vanilla%20Organ%20Damage.md) "smartCard-inline") .
+Installs the cyberorgan, healing that organ’s damage and some [Vanilla Organ Damage](../Torso/Vanilla%20Organ%20Damage.md) .
 
 #### Application Failure (Mechanical):
 
-Same as Success but causes 20% [[Liver Damage](../Torso/Liver%20Damage.md)]([Liver Damage](../Torso/Liver%20Damage.md) "smartCard-inline")   .
+Same as Success but causes 20% [Liver Damage](../Torso/Liver%20Damage.md)   .
 
 #### Application Failure (Medical):
 
-Same as Success but causes [[Internal Bleeding](../Torso/Internal%20Bleeding.md)]([Internal Bleeding](../Torso/Internal%20Bleeding.md) "smartCard-inline").
+Same as Success but causes [Internal Bleeding](../Torso/Internal%20Bleeding.md).
 
 ## How to remove:
 
-[[Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md)]([Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md) "smartCard-inline") will remove and return the corresponding cybernetic organ.
+[Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md) will remove and return the corresponding cybernetic organ.

@@ -1,4 +1,4 @@
-# Craving
+![addiction.png\|200](./Craving%20-%20Attachments/6718845db30472d958dd7c4a.png)
 
 Original URL: https://trello.com/c/kMQIjPAT
 
@@ -10,12 +10,7 @@ Craving is a symptom, which means that it isn't fatal and doesn't cause any othe
 
 ## Caused by:
 
-- [[Withdrawal](../Head_Brain/Withdrawal.md)]([Withdrawal](../Head_Brain/Withdrawal.md) "smartCard-inline") (20% or more)
+- [Withdrawal](../Head_Brain/Withdrawal.md)
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7c4a](./Craving%20-%20Attachments/6718845db30472d958dd7c4a.png) | addiction.png | ![addiction.png\|200](./Craving%20-%20Attachments/6718845db30472d958dd7c4a.png)

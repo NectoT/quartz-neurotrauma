@@ -1,4 +1,4 @@
-# Triage Card
+![Triage Card.png\|200](./Triage%20Card%20-%20Attachments/6718845db30472d958dd7ddb.png)
 
 Original URL: https://trello.com/c/wKaI81zg
 
@@ -15,8 +15,3 @@ The automatic triage cards will rate your victim's health based off of their aff
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7ddb](./Triage%20Card%20-%20Attachments/6718845db30472d958dd7ddb.png) | Triage_Card.png | ![Triage Card.png\|200](./Triage%20Card%20-%20Attachments/6718845db30472d958dd7ddb.png)

@@ -1,4 +1,4 @@
-# Cyberbrain Implant
+
 
 Original URL: https://trello.com/c/EiT0ucpI
 
@@ -11,11 +11,11 @@ Available as a more affordable Cyber-augmented Brain Implant, or the twice as ef
 ### Advantages of Cyberbrain Implants:
 
 - Boosts all skills by 5 (10 for Positronic)
-- Grants permanent mild [[Analgesia](../Torso/Analgesia.md)]([Analgesia](../Torso/Analgesia.md) "smartCard-inline")  for easier surgeries
-- Improves [[Neurotrauma](../Head_Brain/Neurotrauma.md)]([Neurotrauma](../Head_Brain/Neurotrauma.md) "smartCard-inline")  recovery rate
-  - Doubles effects of [[Mannitol](../Items/Mannitol.md)]([Mannitol](../Items/Mannitol.md) "smartCard-inline")
+- Grants permanent mild [Analgesia](../Torso/Analgesia.md)  for easier surgeries
+- Improves [Neurotrauma](../Head_Brain/Neurotrauma.md)  recovery rate
+  - Doubles effects of [Mannitol](../Items/Mannitol.md)
   - Doubles natural healing rate once causes are addressed
-- Mild resistance to [[Neurotrauma](../Head_Brain/Neurotrauma.md)]([Neurotrauma](../Head_Brain/Neurotrauma.md) "smartCard-inline")
+- Mild resistance to [Neurotrauma](../Head_Brain/Neurotrauma.md)
 
 #### Disadvantages of Cyberorgans:
 
@@ -23,7 +23,7 @@ Available as a more affordable Cyber-augmented Brain Implant, or the twice as ef
 
 ## How to add:
 
-Open up the head as a typical surgery with[[Retracted Skin](../Surgery/Retracted%20Skin.md)]([Retracted Skin](../Surgery/Retracted%20Skin.md) "smartCard-inline"), but do not remove their brain! They’ll still need to keep that! Instead, place the Implant on top.
+Open up the head as a typical surgery with[Retracted Skin](../Surgery/Retracted%20Skin.md), but do not remove their brain! They’ll still need to keep that! Instead, place the Implant on top.
 
 #### Electrical skill requirement: 60
 
@@ -31,16 +31,16 @@ Medical/Surgical skill requirement: 80
 
 #### Application Success:
 
-Installs the implant, healing some [[Neurotrauma](../Head_Brain/Neurotrauma.md)]([Neurotrauma](../Head_Brain/Neurotrauma.md) "smartCard-inline")  and some [[Vanilla Organ Damage](../Torso/Vanilla%20Organ%20Damage.md)]([Vanilla Organ Damage](../Torso/Vanilla%20Organ%20Damage.md) "smartCard-inline") .
+Installs the implant, healing some [Neurotrauma](../Head_Brain/Neurotrauma.md) .
 
 #### Application Failure (Mechanical):
 
-Same as Success but causes 20% [[Neurotrauma](../Head_Brain/Neurotrauma.md)]([Neurotrauma](../Head_Brain/Neurotrauma.md) "smartCard-inline").
+Same as Success but causes 20% [Neurotrauma](../Head_Brain/Neurotrauma.md).
 
 #### Application Failure (Medical):
 
-Same as Success but causes [[Internal Bleeding](../Torso/Internal%20Bleeding.md)]([Internal Bleeding](../Torso/Internal%20Bleeding.md) "smartCard-inline").
+Same as Success but causes [Internal Bleeding](../Torso/Internal%20Bleeding.md).
 
 ## How to remove:
 
-[[Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md)]([Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md) "smartCard-inline") _once_ will return the Implant, using the [[Organ Procurement Scalpels](../Items/archived/Organ%20Procurement%20Scalpels.md)]([Organ Procurement Scalpels](../Items/archived/Organ%20Procurement%20Scalpels.md) "smartCard-inline") a second time will remove the patient’s brain, which they probably need.
+[Organ Transplant Surgery](../Procedures/Organ%20Transplant%20Surgery.md) a second time will remove the patient’s brain, which they probably need.

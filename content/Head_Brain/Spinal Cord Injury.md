@@ -1,4 +1,4 @@
-# Spinal Cord Injury
+![sprinegobrrr.png\|200](./Spinal%20Cord%20Injury%20-%20Attachments/6718845db30472d958dd7b5d.png)
 
 Original URL: https://trello.com/c/apjVCPA6
 
@@ -10,21 +10,16 @@ Spinal cord injuries will remove your ability to move or speak, which could get 
 
 ## Caused by:
 
-- [[Fractures](../Bones/Fractures.md)]([Fractures](../Bones/Fractures.md) "smartCard-inline") (neck fractures)
+- [Fractures](../Bones/Fractures.md)
 
 ## Effects:
 
 - Inability to move or speak
-- [[Analgesia](../Torso/Analgesia.md)]([Analgesia](../Torso/Analgesia.md) "smartCard-inline")
+- [Analgesia](../Torso/Analgesia.md)
 
 ## Treatments:
 
-- [[Open & Close Surgery](../Procedures/Open%20&%20Close%20Surgery.md)]([Open & Close Surgery](../Procedures/Open%20&%20Close%20Surgery.md) "smartCard-inline") (apply [[Spinal Cord Implants](../Items/Spinal%20Cord%20Implants.md)]([Spinal Cord Implants](../Items/Spinal%20Cord%20Implants.md) "smartCard-inline") before applying [[Sutures](../Items/Sutures.md)]([Sutures](../Items/Sutures.md) "smartCard-inline"))
+- [Open & Close Surgery](../Procedures/Open%20&%20Close%20Surgery.md)
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7b5d](./Spinal%20Cord%20Injury%20-%20Attachments/6718845db30472d958dd7b5d.png) | sprinegobrrr.png | ![sprinegobrrr.png\|200](./Spinal%20Cord%20Injury%20-%20Attachments/6718845db30472d958dd7b5d.png)
