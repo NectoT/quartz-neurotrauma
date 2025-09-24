@@ -1,4 +1,4 @@
-![autopulse.png\|200](./AutoPulse%20-%20Attachments/6718845db30472d958dd7be7.png)
+![autopulse.png\|200](/Items/AutoPulse%20-%20Attachments/6718845db30472d958dd7be7.png)
 
 Original URL: https://trello.com/c/KctxwB8N
 

@@ -1,4 +1,4 @@
-![Surgical Drapes.png\|200](./Surgical%20Drapes%20-%20Attachments/6718845db30472d958dd7dc3.png)
+![Surgical Drapes.png\|200](/Surgery Plus Expansion/Surgical%20Drapes%20-%20Attachments/6718845db30472d958dd7dc3.png)
 
 Original URL: https://trello.com/c/bztP9Er9
 

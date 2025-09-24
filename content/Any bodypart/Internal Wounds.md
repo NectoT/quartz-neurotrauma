@@ -1,4 +1,4 @@
-![bft.png\|200](./Internal%20Wounds%20-%20Attachments/68135c1d078fdecdd0864b3f.png)
+![bft.png\|200](/Any bodypart/Internal%20Wounds%20-%20Attachments/68135c1d078fdecdd0864b3f.png)
 
 Original URL: https://trello.com/c/tj9SaBlj
 

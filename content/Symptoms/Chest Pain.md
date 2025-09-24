@@ -1,4 +1,4 @@
-![tile017(2).png\|200](./Chest%20Pain%20-%20Attachments/6718845db30472d958dd7ab7.png)
+![tile017(2).png\|200](/Symptoms/Chest%20Pain%20-%20Attachments/6718845db30472d958dd7ab7.png)
 
 Original URL: https://trello.com/c/VOlg3J5P
 

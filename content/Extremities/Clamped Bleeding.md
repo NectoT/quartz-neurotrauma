@@ -1,4 +1,4 @@
-![arteriesclamp.png\|200](./Clamped%20Bleeding%20-%20Attachments/680465210c7424bd31bbff8d.png)
+![arteriesclamp.png\|200](/Extremities/Clamped%20Bleeding%20-%20Attachments/680465210c7424bd31bbff8d.png)
 
 Original URL: https://trello.com/c/LkIk7Xwu
 

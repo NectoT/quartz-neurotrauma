@@ -1,4 +1,4 @@
-![Affliction_Drunk.png\|200](./Drunk%20-%20Attachments/68045f178c30287b31d5aa3e.png)
+![Affliction_Drunk.png\|200](/Head_Brain/Drunk%20-%20Attachments/68045f178c30287b31d5aa3e.png)
 
 Original URL: https://trello.com/c/ztEa5LxO
 

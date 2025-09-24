@@ -1,4 +1,4 @@
-![leg.png\|200](./Leg%20(Bionic%20_%20Severed)%20-%20Attachments/680461ab99d723d407b69096.png)
+![leg.png\|200](/Items/Leg%20(Bionic%20_%20Severed)%20-%20Attachments/680461ab99d723d407b69096.png)
 
 Original URL: https://trello.com/c/CTn794j8
 

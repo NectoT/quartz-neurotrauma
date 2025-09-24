@@ -1,4 +1,4 @@
-![tile017(2).png\|200](./Bloating%20-%20Attachments/6718845db30472d958dd7ab1.png)
+![tile017(2).png\|200](/Symptoms/Bloating%20-%20Attachments/6718845db30472d958dd7ab1.png)
 
 Original URL: https://trello.com/c/BzeukSfq
 

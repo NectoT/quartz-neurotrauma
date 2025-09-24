@@ -1,4 +1,4 @@
-![tile018(2).png\|200](./Sweating%20-%20Attachments/6718845db30472d958dd7abd.png)
+![tile018(2).png\|200](/Symptoms/Sweating%20-%20Attachments/6718845db30472d958dd7abd.png)
 
 Original URL: https://trello.com/c/q0GswpF3
 

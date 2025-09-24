@@ -1,4 +1,4 @@
-![Cyberleg.png\|200](./Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png)
+![Cyberleg.png\|200](/Cybernetics Expansion (Needs images)/Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png)
 
 Original URL: https://trello.com/c/1hY5nRPU
 

@@ -1,4 +1,4 @@
-![surgery.png\|200](./Amputation%20Surgery%20-%20Attachments/6718845db30472d958dd7c00.png)
+![surgery.png\|200](/Procedures/Amputation%20Surgery%20-%20Attachments/6718845db30472d958dd7c00.png)
 
 Original URL: https://trello.com/c/kr4V3Aiz
 

@@ -1,4 +1,4 @@
-![refrigeratedcrate.png\|200](./Refrigerated%20Crate%20-%20Attachments/6811973275003bdb105762be.png)
+![refrigeratedcrate.png\|200](/Items/Refrigerated%20Crate%20-%20Attachments/6811973275003bdb105762be.png)
 
 Original URL: https://trello.com/c/qTX1Of6F
 

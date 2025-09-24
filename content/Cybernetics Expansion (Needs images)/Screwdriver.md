@@ -1,4 +1,4 @@
-![Screwdriver.png\|200](./Screwdriver%20-%20Attachments/6718845db30472d958dd7e65.png)
+![Screwdriver.png\|200](/Cybernetics Expansion (Needs images)/Screwdriver%20-%20Attachments/6718845db30472d958dd7e65.png)
 
 Original URL: https://trello.com/c/Qolzt8GI
 

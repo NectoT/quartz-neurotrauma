@@ -1,4 +1,4 @@
-![tile027(3).png\|200](./Alkalosis%20-%20Attachments/6718845db30472d958dd7ae7.png)
+![tile027(3).png\|200](/Blood/Alkalosis%20-%20Attachments/6718845db30472d958dd7ae7.png)
 
 Original URL: https://trello.com/c/N9SEuVZP
 

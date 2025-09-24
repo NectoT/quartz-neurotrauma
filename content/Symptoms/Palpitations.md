@@ -1,4 +1,4 @@
-![palpatinefromstarwars.png\|200](./Palpitations%20-%20Attachments/6718845db30472d958dd7c7a.png)
+![palpatinefromstarwars.png\|200](/Symptoms/Palpitations%20-%20Attachments/6718845db30472d958dd7c7a.png)
 
 Original URL: https://trello.com/c/qXmQZIoy
 

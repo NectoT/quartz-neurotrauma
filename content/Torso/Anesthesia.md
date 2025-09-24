@@ -1,4 +1,4 @@
-![anesthesia.png\|200](./Anesthesia%20-%20Attachments/6718845db30472d958dd7a8d.png)
+![anesthesia.png\|200](/Torso/Anesthesia%20-%20Attachments/6718845db30472d958dd7a8d.png)
 
 Original URL: https://trello.com/c/FZHxUawt
 

@@ -1,4 +1,4 @@
-![Opium.png\|200](./Opium%20-%20Attachments/6718845db30472d958dd7d2a.png)
+![Opium.png\|200](/Items/Opium%20-%20Attachments/6718845db30472d958dd7d2a.png)
 
 Original URL: https://trello.com/c/pP4nvfXu
 

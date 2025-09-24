@@ -1,4 +1,4 @@
-![kidney.png\|200](./Kidney%20Transplant%20-%20Attachments/680728b1322fc5680e22d559.png)
+![kidney.png\|200](/Items/Kidney%20Transplant%20-%20Attachments/680728b1322fc5680e22d559.png)
 
 Original URL: https://trello.com/c/XVILrpEV
 

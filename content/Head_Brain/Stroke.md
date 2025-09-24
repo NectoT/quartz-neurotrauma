@@ -1,4 +1,4 @@
-![tile001(2).png\|200](./Stroke%20-%20Attachments/6718845db30472d958dd7c1e.png)
+![tile001(2).png\|200](/Head_Brain/Stroke%20-%20Attachments/6718845db30472d958dd7c1e.png)
 
 Original URL: https://trello.com/c/kyyCc0G4
 

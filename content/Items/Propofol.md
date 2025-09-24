@@ -1,4 +1,4 @@
-![image_2022-10-04_144411584.png\|200](./Propofol%20-%20Attachments/6718845db30472d958dd7d8a.png)
+![image_2022-10-04_144411584.png\|200](/Items/Propofol%20-%20Attachments/6718845db30472d958dd7d8a.png)
 
 Original URL: https://trello.com/c/qyGRJKSr
 

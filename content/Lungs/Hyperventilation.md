@@ -1,4 +1,4 @@
-![tile004(2).png\|200](./Hyperventilation%20-%20Attachments/6718845db30472d958dd7a57.png)
+![tile004(2).png\|200](/Lungs/Hyperventilation%20-%20Attachments/6718845db30472d958dd7a57.png)
 
 Original URL: https://trello.com/c/1EYpI6vE
 

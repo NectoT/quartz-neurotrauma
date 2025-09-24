@@ -1,4 +1,4 @@
-![headache.png\|200](./Headache%20-%20Attachments/6718845db30472d958dd7b57.png)
+![headache.png\|200](/Symptoms/Headache%20-%20Attachments/6718845db30472d958dd7b57.png)
 
 Original URL: https://trello.com/c/5nbrCENm
 

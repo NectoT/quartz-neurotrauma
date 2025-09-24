@@ -1,4 +1,4 @@
-![Nitroglycerin.png\|200](./Nitroglycerin%20-%20Attachments/6718845db30472d958dd7d24.png)
+![Nitroglycerin.png\|200](/Items/Nitroglycerin%20-%20Attachments/6718845db30472d958dd7d24.png)
 
 Original URL: https://trello.com/c/8I5ExS8d
 

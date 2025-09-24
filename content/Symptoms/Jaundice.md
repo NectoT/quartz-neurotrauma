@@ -1,4 +1,4 @@
-![tile000.png\|200](./Jaundice%20-%20Attachments/6718845db30472d958dd7b31.png)
+![tile000.png\|200](/Symptoms/Jaundice%20-%20Attachments/6718845db30472d958dd7b31.png)
 
 Original URL: https://trello.com/c/WaAxy0nb
 

@@ -1,4 +1,4 @@
-![ointment.png\|200](./Antibiotic%20Ointment%20-%20Attachments/6718845db30472d958dd7c97.png)
+![ointment.png\|200](/Items/Antibiotic%20Ointment%20-%20Attachments/6718845db30472d958dd7c97.png)
 
 Original URL: https://trello.com/c/KNDiXcjp
 

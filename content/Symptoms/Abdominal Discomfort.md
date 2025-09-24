@@ -1,4 +1,4 @@
-![tile017(2).png\|200](./Abdominal%20Discomfort%20-%20Attachments/6718845db30472d958dd7b3d.png)
+![tile017(2).png\|200](/Symptoms/Abdominal%20Discomfort%20-%20Attachments/6718845db30472d958dd7b3d.png)
 
 Original URL: https://trello.com/c/GCaxH0hA
 

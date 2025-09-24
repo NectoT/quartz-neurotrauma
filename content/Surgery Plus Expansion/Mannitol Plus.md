@@ -1,4 +1,4 @@
-![Mannitol Plus.png\|200](./Mannitol%20Plus%20-%20Attachments/6718845db30472d958dd7dc9.png)
+![Mannitol Plus.png\|200](/Surgery Plus Expansion/Mannitol%20Plus%20-%20Attachments/6718845db30472d958dd7dc9.png)
 
 Original URL: https://trello.com/c/QrAmCqWQ
 

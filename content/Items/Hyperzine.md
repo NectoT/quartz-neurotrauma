@@ -1,4 +1,4 @@
-![tile122.png\|200](./Hyperzine%20-%20Attachments/6718845db30472d958dd7d7e.png)
+![tile122.png\|200](/Items/Hyperzine%20-%20Attachments/6718845db30472d958dd7d7e.png)
 
 Original URL: https://trello.com/c/uj6afllv
 
