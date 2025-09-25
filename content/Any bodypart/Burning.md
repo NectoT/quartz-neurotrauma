@@ -17,7 +17,7 @@ Caused by fires, the patient will gain [Burns](Burns.md) over time. A character 
 ## Causes:
 
 - Standing in a fire
-- https://barotraumagame.com/wiki/Incendium_Grenade
+- [Incendium Grenade](https://barotraumagame.com/wiki/Incendium_Grenade)
 
 ## Effects:
 
@@ -26,6 +26,6 @@ Caused by fires, the patient will gain [Burns](Burns.md) over time. A character 
 ## Treatments:
 
 - Time
-- https://barotraumagame.com/wiki/Fire_Extinguisher
+- [Fire Extinguisher](https://barotraumagame.com/wiki/Fire_Extinguisher)
 - Being inside water
-- Wearing a https://barotraumagame.com/wiki/Diving_Suit or other pressure-resistant items
+- Wearing a [Diving Suit](https://barotraumagame.com/wiki/Diving_Suit) or other pressure-resistant items

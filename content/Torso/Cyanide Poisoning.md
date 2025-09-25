@@ -14,7 +14,7 @@ Original URL: https://trello.com/c/6W5QdFGa
 
 ## Caused by:
 
-- https://barotraumagame.com/wiki/Cyanide
+- [Cyanide](https://barotraumagame.com/wiki/Cyanide)
 
 ## Effects:
 
@@ -22,17 +22,17 @@ Original URL: https://trello.com/c/6W5QdFGa
 - Screen blurring
 - Skin turns blue
 - Reduced movement speed
-- Reducing https://barotraumagame.com/wiki/Husk_Infection, at 10% or more
+- Reducing [husk infection](https://barotraumagame.com/wiki/Husk_Infection), at 10% or more
 - [Hypoxemia](../Blood/Hypoxemia.md), at 10% or more
-- https://barotraumagame.com/wiki/Stun, at 50-75% when under 75% vitality, or 75-100% when under 90% vitality,
+- [Stun](https://barotraumagame.com/wiki/Stun), at 50-75% when under 75% vitality, or 75-100% when under 90% vitality,
 
 ## Treatments:
 
-- https://barotraumagame.com/wiki/Cyanide_Antidote
+- [Cyanide Antidote](https://barotraumagame.com/wiki/Cyanide_Antidote)
 
 ## First Aid:
 
-- https://barotraumagame.com/wiki/Stabilozine
+- [Stabilozine](https://barotraumagame.com/wiki/Stabilozine)
 
 ---
 

@@ -12,7 +12,7 @@ Original URL: https://trello.com/c/6V4emjH5
 
 ### Medical skill check: 60
 
-Mannitol is a medication used to treat https://trello.com/c/KVxUVP33/48-neurotrauma and halve its gain. In return, it causes various organ damage. For mannitol to treat Neurotrauma, [blood pressure]([Hypotension](../Blood/Hypotension.md) "‌") must be greater than 70% and [Hypoxemia](../Blood/Hypoxemia.md) must be less than 30%
+Mannitol is a medication used to treat [[Neurotrauma]] and halve its gain. In return, it causes various organ damage. For mannitol to treat Neurotrauma, [blood pressure]([Hypotension](../Blood/Hypotension.md) "‌") must be greater than 70% and [Hypoxemia](../Blood/Hypoxemia.md) must be less than 30%
 
 ### Application success:
 

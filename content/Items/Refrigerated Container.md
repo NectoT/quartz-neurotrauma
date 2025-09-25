@@ -4,7 +4,7 @@ Original URL: https://trello.com/c/PDEBCrMK
 
 ---
 
-A container which shares many properties with the https://barotraumagame.com/wiki/Storage_Container. It has 6 slots and may hold any small item. However, its main use is to hold organ transplants (except for the [Brain Transplant](Brain%20Transplant.md), severed limbs, and [Gel Ice Pack](Gel%20Ice%20Pack.md)s. This will prevent the items from naturally losing condition. Organ transplants will slowly regain condition if they are above 90%, limbs above 95%, and gel ice packs at any condition.
+A container which shares many properties with the [storage containers](https://barotraumagame.com/wiki/Storage_Containers). It has 6 slots and may hold any small item. However, its main use is to hold organ transplants (except for the [Brain Transplant](Brain%20Transplant.md), severed limbs, and [Gel Ice Pack](Gel%20Ice%20Pack.md)s. This will prevent the items from naturally losing condition. Organ transplants will slowly regain condition if they are above 90%, limbs above 95%, and gel ice packs at any condition.
 
 Organ transplants may be destroyed if they are placed in the container and it is dropped from a large height.
 

@@ -30,7 +30,7 @@ Headache is a symptom, which means that it isn't fatal and doesn't cause any oth
 ## Treatments:
 
 - Treating the causes
-- Painkillers (https://trello.com/c/VfFlHb0m/56-analgesia or https://trello.com/c/vvHda0rS/16-anesthesia
+- Painkillers ([[Analgesia]] or [[Anesthesia]])
 
 ---
 

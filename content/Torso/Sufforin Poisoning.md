@@ -14,26 +14,26 @@ Original URL: https://trello.com/c/RgZecv2D
 
 ## Caused by:
 
-- https://barotraumagame.com/wiki/Sufforin
+- [Sufforin](https://barotraumagame.com/wiki/Sufforin)
 
 ## Effects:
 
 - Screen blurring
 - Screen distortion
-- Reducing https://barotraumagame.com/wiki/Husk_Infection (at 10% or more)
+- Reducing [husk infection](https://barotraumagame.com/wiki/Husk_Infection) (at 10% or more)
 - [Liver Damage](Liver%20Damage.md) (at 75% or more)
 - [Kidney Damage](Kidney%20Damage.md) (at 75% or more)
 - [Heart Damage](../Heart/Heart%20Damage.md) (at 75% or more)
 - [Vanilla Organ Damage](Vanilla%20Organ%20Damage.md) (at 75% or more)
-- https://barotraumagame.com/wiki/Stun (at 75% or more, when under 90% vitality)
+- [Stun](https://barotraumagame.com/wiki/Stun) (at 75% or more, when under 90% vitality)
 
 ## Treatments:
 
-- https://barotraumagame.com/wiki/Sufforin_Antidote
+- [Sufforin Antidote](https://barotraumagame.com/wiki/Sufforin_Antidote)
 
 ## First Aid:
 
-- https://barotraumagame.com/wiki/Stabilozine
+- [Stabilozine](https://barotraumagame.com/wiki/Stabilozine)
 
 ---
 

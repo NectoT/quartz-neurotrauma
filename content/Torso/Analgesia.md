@@ -25,9 +25,9 @@ The first step in **all** surgical procedures. Analgesia is an affliction that p
 
 ## Effects:
 
-- [Hypoventilation](../Lungs/Hypoventilation.md) (at 20% or more)
-- 25% https://barotraumagame.com/wiki/Damage_(Affliction_Type) resistance (at 20% or more)
-- 25% https://barotraumagame.com/wiki/Stun resistance (at 20% or more
+- [Hypoventilation](../Lungs/Hypoventilation.md)
+- 25% [Damage](https://barotraumagame.com/wiki/Damage_(Affliction_Type))
+- 25% [Stun](https://barotraumagame.com/wiki/Stun) resistance (at 20% or more)
 - Prevents extremity [Fractures](../Bones/Fractures.md) and [Dislocations](../Bones/Dislocations.md) from causing [internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌")
 - Reduces the [Wrench](../Items/Wrench.md) skillcheck from 60 to 30 medical
 - Allows for surgery tools to be used

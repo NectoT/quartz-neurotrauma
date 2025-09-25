@@ -48,11 +48,11 @@ Unless specified, the aforementioned afflictions are gained based on chance. Thi
 - [Gel Ice Pack](../Items/Gel%20Ice%20Pack.md), unless it is over 100 strength
 - Using [Tweezers](../Items/Tweezers.md) before [Sutures](../Items/Sutures.md) during [Open & Close Surgery](../Procedures/Open%20&%20Close%20Surgery.md)
 - [Combat Stimulant](../Items/Combat%20Stimulant.md)
-- https://barotraumagame.com/wiki/Pomegrenade_Extract
+- [Pomegrenade Extract](https://barotraumagame.com/wiki/Pomegrenade_Extract)
 
 ## Internal damage:
 
-An uncommon wound which is typically caused by other afflictions and failed skill checks. Unlike other https://barotraumagame.com/wiki/Damage_(Affliction_Type), internal damage does not appear in the Health UI.
+An uncommon wound which is typically caused by other afflictions and failed skill checks. Unlike other [damage](https://barotraumagame.com/wiki/Damage_(Affliction_Type)), internal damage does not appear in the Health UI.
 
 ### Causes:
 
@@ -85,7 +85,7 @@ An uncommon wound which is typically caused by other afflictions and failed skil
 - Time
 - Using [Tweezers](../Items/Tweezers.md) before [Sutures](../Items/Sutures.md) during [Open & Close Surgery](../Procedures/Open%20&%20Close%20Surgery.md)
 - [Combat Stimulant](../Items/Combat%20Stimulant.md)
-- https://barotraumagame.com/wiki/Pomegrenade_Extract
+- [Pomegrenade Extract](https://barotraumagame.com/wiki/Pomegrenade_Extract)
 
 Unless specified, the aforementioned afflictions are gained based on chance. This means more damage taken will result in a higher chance of gaining them. The afflictions are gained on the limb in which damage was taken, so afflictions not applicable to the limb will not be gained.
 

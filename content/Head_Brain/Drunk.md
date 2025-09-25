@@ -25,9 +25,9 @@ Drinking alcohol will cause the character to become drunk, causing a variety of 
 
 ## Caused by:
 
-- https://barotraumagame.com/wiki/Ethanol
-- https://barotraumagame.com/wiki/Rum
-- https://barotraumagame.com/wiki/Beer_Bottle
+- [Ethanol](https://barotraumagame.com/wiki/Ethanol)
+- [Rum](https://barotraumagame.com/wiki/Rum)
+- [Beer bottle](https://barotraumagame.com/wiki/Beer_Bottle)
 
 ## Treatment:
 

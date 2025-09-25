@@ -16,15 +16,15 @@ An antipsychotic drug also useful in the treatment of alcohol withdrawal.
 
 ### Application success:
 
-\-100% https://barotraumagame.com/wiki/Psychosis
-\-100% https://barotraumagame.com/wiki/Hallucinating
-\-100% alcohol [Withdrawal](../Head_Brain/Withdrawal.md)
+- -100% [Psychosis](https://barotraumagame.com/wiki/Psychosis)
+- \-100% [Hallucinating](https://barotraumagame.com/wiki/Hallucinating)
+- \-100% alcohol [Withdrawal](../Head_Brain/Withdrawal.md)
 
 ### Application failure:
 
-\-25% https://barotraumagame.com/wiki/Psychosis
-\-25% https://barotraumagame.com/wiki/Hallucinating
-\-25% alcohol [Withdrawal](../Head_Brain/Withdrawal.md)
+- \-25% [Psychosis](https://barotraumagame.com/wiki/Psychosis)
+- \-25% [Hallucinating](https://barotraumagame.com/wiki/Hallucinating)
+- \-25% alcohol [Withdrawal](../Head_Brain/Withdrawal.md)
 
 ---
 

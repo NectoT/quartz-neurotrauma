@@ -11,7 +11,7 @@ Original URL: https://trello.com/c/mpEvY3eD
 
 ---
 
-A concussion is caused by a severe attack to the head. It periodically brings nausea, blurred vision, headaches, and confusion. While a nuisance, concussions aren't lethal. As they are a type of https://barotraumagame.com/wiki/Damage_(Affliction_Type), they can be treated with any items that will directly treat damage.
+A concussion is caused by a severe attack to the head. It periodically brings nausea, blurred vision, headaches, and confusion. While a nuisance, concussions aren't lethal. As they are a type of [damage][https://barotraumagame.com/wiki/Damage_(Affliction_Type)], they can be treated with any items that will directly treat damage.
 
 ## Effects:
 
@@ -32,7 +32,7 @@ A concussion is caused by a severe attack to the head. It periodically brings na
 ## Treatment:
 
 - Bed rest
-- https://barotraumagame.com/wiki/Pomegrenade_Extract
+- [Pomegrenade Extract](https://barotraumagame.com/wiki/Pomegrenade_Extract)
 
 ---
 

@@ -15,7 +15,7 @@ A heart attack must be treated as soon as possible to reduce the risk of heart f
 
 ---
 
-\## Caused by:
+## Caused by:
 
 - [Hypertension](../Blood/Hypertension.md) (150% or more)
 - Failing [Antibiotic Glue](../Items/Antibiotic%20Glue.md) skill check
@@ -30,7 +30,7 @@ A heart attack must be treated as soon as possible to reduce the risk of heart f
 
 - Treating the causes
 - [Streptokinase](../Items/Streptokinase.md)
-- https://trello.com/c/TZJLjLDz/32-nitroglycerin pill (from NT pharmacy)
+- [[Nitroglycerin]] pill (from NT pharmacy)
 
 ---
 

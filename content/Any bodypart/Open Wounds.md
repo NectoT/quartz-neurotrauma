@@ -22,7 +22,7 @@ A wound typically resulting from injuries involving sharps.
 
 ### Causes:
 
-- Sharp weapons such as a https://barotraumagame.com/wiki/Diving_Knife
+- Sharp weapons such as a [diving knife](https://barotraumagame.com/wiki/Diving_Knife)
 - Submarine spalling
 - Using [Tweezers](../Items/Tweezers.md) when removing [Foreign Bodies](Foreign%20Bodies.md) or [Internal Wounds](Internal%20Wounds.md)
 
@@ -45,7 +45,7 @@ Unless specified, the aforementioned afflictions are gained based on chance. Thi
 - Time, unless it is over 50 strength
 - [Bandaged](Bandaged.md), unless it is over 50 strength
 - [Sutures](../Items/Sutures.md)
-- https://barotraumagame.com/wiki/Pomegrenade_Extract
+- [Pomegrenade Extract](https://barotraumagame.com/wiki/Pomegrenade_Extract)
 - [Combat Stimulant](../Items/Combat%20Stimulant.md)
 
 ## Deep tissue injury:
@@ -54,7 +54,7 @@ A wound typically resulting from injuries involving explosions.
 
 ### Causes:
 
-- Explosives such as a https://barotraumagame.com/wiki/Frag_Grenade
+- Explosives such as a [frag grenade](https://barotraumagame.com/wiki/Frag_Grenade)
 
 ### Effects:
 
@@ -79,7 +79,7 @@ Unless specified, the aforementioned afflictions are gained based on chance. Thi
 - Time, unless it is over 50 strength
 - [Bandaged](Bandaged.md), unless it is over 50 strength
 - [Sutures](../Items/Sutures.md)
-- https://barotraumagame.com/wiki/Pomegrenade_Extract
+- [Pomegrenade Extract](https://barotraumagame.com/wiki/Pomegrenade_Extract)
 - [Combat Stimulant](../Items/Combat%20Stimulant.md)
 
 ## Gunshot wound:
@@ -88,7 +88,7 @@ A wound typically resulting from injuries involving firearms.
 
 ### Causes:
 
-- Being shot such as from a https://barotraumagame.com/wiki/Revolver
+- Being shot such as from a [revolver](https://barotraumagame.com/wiki/Revolver)
 
 ### Effects:
 
@@ -115,7 +115,7 @@ Unless specified, the aforementioned afflictions are gained based on chance. Thi
 - Time, unless it is over 50 strength
 - [Bandaged](Bandaged.md), unless it is over 50 strength
 - [Sutures](../Items/Sutures.md)
-- https://barotraumagame.com/wiki/Pomegrenade_Extract
+- [Pomegrenade Extract](https://barotraumagame.com/wiki/Pomegrenade_Extract)
 - [Combat Stimulant](../Items/Combat%20Stimulant.md)
 
 ## Bite wounds:
@@ -124,7 +124,7 @@ A wound typically resulting from injuries involving creature attacks.
 
 ### Causes:
 
-- Being hit by creatures, such as a https://barotraumagame.com/wiki/Crawler
+- Being hit by creatures, such as a [crawler](https://barotraumagame.com/wiki/Crawler)
 - Being bit by a human’s husk ovipositor
 
 ### Effects:
@@ -146,7 +146,7 @@ Unless specified, the aforementioned afflictions are gained based on chance. Thi
 - Time, unless it is over 100 strength
 - [Bandaged](Bandaged.md), unless it is over 100 strength
 - [Sutures](../Items/Sutures.md)
-- https://barotraumagame.com/wiki/Pomegrenade_Extract
+- [Pomegrenade Extract](https://barotraumagame.com/wiki/Pomegrenade_Extract)
 - [Combat Stimulant](../Items/Combat%20Stimulant.md)
 
 ---

@@ -14,7 +14,7 @@ Original URL: https://trello.com/c/HYOwZ1ly
 
 A side effect of some medicines. Additional organ damage is caused by failing the medical skill check of those medicines.
 
-In Neurotrauma, it is not considered a form of https://barotraumagame.com/wiki/Damage_(Affliction_Type) and cannot be treated by sources which treat damage.
+In Neurotrauma, it is not considered a form of [damage](https://barotraumagame.com/wiki/Damage_(Affliction_Type)) and cannot be treated by sources which treat damage.
 
 ---
 

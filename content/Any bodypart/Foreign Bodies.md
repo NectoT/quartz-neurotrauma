@@ -5,7 +5,7 @@ tags:
 - Lethality-Depends
 ---
 
-![NT\_foreign\_bodies.png](/Any bodypart/https:/trello.com/1/cards/632c37ecf83eee01ac60baaa/attachments/647c6673dbcfcbc5a451a716/download/NT_foreign_bodies.png)
+![NT\_foreign\_bodies.png](https:/trello.com/1/cards/632c37ecf83eee01ac60baaa/attachments/647c6673dbcfcbc5a451a716/download/NT_foreign_bodies.png)
 
 Original URL: https://trello.com/c/aKt3QfJB
 
@@ -31,8 +31,6 @@ Foreign bodies are often acquired after firefights or being caught in an explosi
 
 - [Open & Close Surgery](../Procedures/Open%20&%20Close%20Surgery.md) (use [Tweezers](../Items/Tweezers.md) before applying [Sutures](../Items/Sutures.md)
 - Using [Tweezers](../Items/Tweezers.md) on open gunshot wound or deep tissue injury
-
-![NT\_foreign\_bodies.png](/Any bodypart/https:/trello.com/1/cards/632c37ecf83eee01ac60baaa/attachments/647c6673dbcfcbc5a451a716/download/NT_foreign_bodies.png)
 
 ---
 

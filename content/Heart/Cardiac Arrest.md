@@ -42,7 +42,5 @@ Cardiac arrest will cause blood pressure to plummet significantly, and must be d
 - [AutoPulse](../Items/AutoPulse.md)
 - [Adrenaline](../Items/Adrenaline.md)
 - [Manual Defibrillator](../Items/Manual%20Defibrillator.md) or [Automated External Defibrillator (AED)](../Items/Automated%20External%20Defibrillator%20(AED).md)
-- https://trello.com/c/TZJLjLDz/32-nitroglycerin pill (from NT pharmacy)
-
----
+- [[Nitroglycerin]] pill (from NT pharmacy)
 

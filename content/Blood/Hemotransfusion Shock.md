@@ -29,7 +29,7 @@ Hemotransfusion shock is a condition that only occurs when administering an inco
 - [Heart Damage](../Heart/Heart%20Damage.md) (between 0-70%)
 - [Kidney Damage](../Torso/Kidney%20Damage.md) (between 0-70%)
 - [Lung Damage](../Lungs/Lung%20Damage.md) (between 0-70%)
-- https://trello.com/c/p1JwBniv/9-shortness-of-breath (between 0-70%)
+- [[Shortness of Breath]] (between 0-70%)
 - [Abdominal Pain](../Symptoms/Abdominal%20Pain.md) (between 0-80%)
 - [Wheezing](../Symptoms/Wheezing.md) (between 0-90%)
 

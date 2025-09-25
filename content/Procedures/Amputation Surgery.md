@@ -23,7 +23,7 @@ Original URL: https://trello.com/c/kr4V3Aiz
 7. [Sutures](../Items/Sutures.md)
 8. (optional; requires NT Cybernetics addon) [Cybernetic Arm](../Cybernetics%20Expansion%20(Needs%20images)/Cybernetic%20Arm.md) and [Cybernetic Leg](../Cybernetics%20Expansion%20(Needs%20images)/Cybernetic%20Leg.md) can be installed onto amputated limbs without needing to be surgically open to attach.
 
-Doing this procedure will not yield the limb if the limb has more than 15% https://trello.com/c/b6ltIfNZ/108-gangrene
+Doing this procedure will not yield the limb if the limb has more than 15% [[Gangrene]]
 
 This procedure causes https://trello.com/c/l8tSj7mdunless #6 was installed.
 
