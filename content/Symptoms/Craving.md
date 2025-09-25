@@ -8,7 +8,7 @@ tags:
 
 ![addiction.png\|200](/Symptoms/Craving%20-%20Attachments/6718845db30472d958dd7c4a.png)
 
-Original URL: https://trello.com/c/kMQIjPAT
+> [!info] [Trello card](https://trello.com/c/kMQIjPAT/90-craving)
 
 ---
 

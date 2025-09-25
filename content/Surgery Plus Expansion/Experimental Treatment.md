@@ -7,7 +7,7 @@ tags:
 
 ![Experimental Treatment.png\|200](/Surgery Plus Expansion/Experimental%20Treatment%20-%20Attachments/6718845db30472d958dd7dd5.png)
 
-Original URL: https://trello.com/c/BdEbFEqA
+> [!info] [Trello card](https://trello.com/c/BdEbFEqA/154-experimental-treatment)
 
 ---
 

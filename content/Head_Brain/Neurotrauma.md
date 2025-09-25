@@ -7,7 +7,7 @@ tags:
 
 ![neurotraumasmall.png\|200](/Head_Brain/Neurotrauma%20-%20Attachments/6718845db30472d958dd7b43.png)
 
-Original URL: https://trello.com/c/iownhfKM
+> [!info] [Trello card](https://trello.com/c/iownhfKM/46-neurotrauma)
 
 ---
 

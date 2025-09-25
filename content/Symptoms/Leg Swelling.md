@@ -7,7 +7,7 @@ tags:
 
 ![tile012(2).png\|200](/Symptoms/Leg%20Swelling%20-%20Attachments/6718845db30472d958dd7a93.png)
 
-Original URL: https://trello.com/c/YfRCGUSx
+> [!info] [Trello card](https://trello.com/c/YfRCGUSx/16-leg-swelling)
 
 ---
 

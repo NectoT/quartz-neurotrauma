@@ -7,7 +7,7 @@ tags:
 
 ![tile027(1).png\|200](/Torso/Aortic%20Rupture%20-%20Attachments/6718845db30472d958dd7cf4.png)
 
-Original URL: https://trello.com/c/VHXhf7Zo
+> [!info] [Trello card](https://trello.com/c/VHXhf7Zo/115-aortic-rupture)
 
 ---
 

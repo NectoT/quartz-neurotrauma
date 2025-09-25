@@ -6,7 +6,7 @@ tags:
 
 ![graph2.png](https:/trello.com/1/cards/632d78ad42b6010054970665/attachments/632d78f61f079304ee30e414/download/graph2.png)
 
-Original URL: https://trello.com/c/qDYaZ1Mj
+> [!info] [Trello card](https://trello.com/c/qDYaZ1Mj/113-automated-external-defibrillator-aed)
 
 ---
 

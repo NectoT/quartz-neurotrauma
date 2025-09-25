@@ -7,7 +7,7 @@ tags:
 
 ![Artificial Brain.png\|200](/Surgery Plus Expansion/Artificial%20Brain%20-%20Attachments/6718845db30472d958dd7de7.png)
 
-Original URL: https://trello.com/c/au8p8Sdj
+> [!info] [Trello card](https://trello.com/c/au8p8Sdj/158-artificial-brain)
 
 ---
 

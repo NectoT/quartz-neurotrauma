@@ -6,7 +6,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/ufZ6llUR
+> [!info] [Trello card](https://trello.com/c/ufZ6llUR/33-burning)
 
 ---
 

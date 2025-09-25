@@ -7,7 +7,7 @@ tags:
 
 ![osteo.png\|200](/Items/Osteosynthesis%20Implants%20-%20Attachments/6718845db30472d958dd7bfa.png)
 
-Original URL: https://trello.com/c/FcEQtNS0
+> [!info] [Trello card](https://trello.com/c/FcEQtNS0/76-osteosynthesis-implants)
 
 ---
 

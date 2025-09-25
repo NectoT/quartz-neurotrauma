@@ -7,7 +7,7 @@ tags:
 
 ![lung2.png\|200](/Lungs/Pneumothorax%20-%20Attachments/6718845db30472d958dd7a51.png)
 
-Original URL: https://trello.com/c/XEGXMhDR
+> [!info] [Trello card](https://trello.com/c/XEGXMhDR/5-pneumothorax)
 
 ---
 

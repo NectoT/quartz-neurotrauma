@@ -7,7 +7,7 @@ tags:
 
 ![Cyberarm.png\|200](/Cybernetics Expansion (Needs images)/Cybernetic%20Arm%20-%20Attachments/6718845db30472d958dd7db7.png)
 
-Original URL: https://trello.com/c/BuwKAyDY
+> [!info] [Trello card](https://trello.com/c/BuwKAyDY/149-cybernetic-arm)
 
 ---
 

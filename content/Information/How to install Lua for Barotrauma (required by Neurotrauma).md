@@ -5,7 +5,7 @@ tags:
 
 ![1200px-Lua-Logo.svg.png\|200](/Information/How%20to%20install%20Lua%20for%20Barotrauma%20(required%20by%20Neurotrauma)%20-%20Attachments/6718845db30472d958dd7e7d.png)
 
-Original URL: https://trello.com/c/8peFj5ez
+> [!info] [Trello card](https://trello.com/c/8peFj5ez/185-how-to-install-lua-for-barotrauma-required-by-neurotrauma)
 
 ---
 

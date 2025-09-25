@@ -7,7 +7,7 @@ tags:
 
 ![spinal.png\|200](/Items/Spinal%20Cord%20Implants%20-%20Attachments/6718845db30472d958dd7ca3.png)
 
-Original URL: https://trello.com/c/jiMh7wmV
+> [!info] [Trello card](https://trello.com/c/jiMh7wmV/105-spinal-cord-implants)
 
 ---
 

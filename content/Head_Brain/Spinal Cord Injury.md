@@ -7,7 +7,7 @@ tags:
 
 ![sprinegobrrr.png\|200](/Head_Brain/Spinal%20Cord%20Injury%20-%20Attachments/6718845db30472d958dd7b5d.png)
 
-Original URL: https://trello.com/c/apjVCPA6
+> [!info] [Trello card](https://trello.com/c/apjVCPA6/50-spinal-cord-injury)
 
 ---
 

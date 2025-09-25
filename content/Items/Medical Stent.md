@@ -7,7 +7,7 @@ tags:
 
 ![stent.png\|200](/Items/Medical%20Stent%20-%20Attachments/6718845db30472d958dd7caf.png)
 
-Original URL: https://trello.com/c/gJ15D00Q
+> [!info] [Trello card](https://trello.com/c/gJ15D00Q/107-medical-stent)
 
 ---
 

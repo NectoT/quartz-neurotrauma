@@ -7,7 +7,7 @@ tags:
 
 ![tile014(2).png\|200](/Symptoms/Wheezing%20-%20Attachments/6718845db30472d958dd7a9f.png)
 
-Original URL: https://trello.com/c/iKoBqdYm
+> [!info] [Trello card](https://trello.com/c/iKoBqdYm/18-wheezing)
 
 ---
 

@@ -7,7 +7,7 @@ tags:
 
 ![addiction (1).png\|200](/Head_Brain/Withdrawal%20-%20Attachments/6718845db30472d958dd7c50.png)
 
-Original URL: https://trello.com/c/W9evFAoa
+> [!info] [Trello card](https://trello.com/c/W9evFAoa/91-withdrawal)
 
 ---
 

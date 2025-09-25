@@ -8,7 +8,7 @@ tags:
 
 ![New Project (4).png\|200](/Bones/Fractures%20-%20Attachments/6718845db30472d958dd7aed.png)
 
-Original URL: https://trello.com/c/9QnZL7lV
+> [!info] [Trello card](https://trello.com/c/9QnZL7lV/31-fractures)
 
 ---
 

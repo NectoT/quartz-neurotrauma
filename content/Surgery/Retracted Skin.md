@@ -7,7 +7,7 @@ tags:
 
 ![tile058(3).png\|200](/Surgery/Retracted%20Skin%20-%20Attachments/6718845db30472d958dd7b8d.png)
 
-Original URL: https://trello.com/c/rtNz0O7A
+> [!info] [Trello card](https://trello.com/c/rtNz0O7A/58-retracted-skin)
 
 ---
 

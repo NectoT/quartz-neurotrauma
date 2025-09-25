@@ -7,7 +7,7 @@ tags:
 
 ![New Project (2).png\|200](/Any bodypart/Burns%20-%20Attachments/6718845db30472d958dd7c2a.png)
 
-Original URL: https://trello.com/c/jhOUye3e
+> [!info] [Trello card](https://trello.com/c/jhOUye3e/84-burns)
 
 ---
 

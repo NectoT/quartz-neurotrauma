@@ -6,7 +6,7 @@ tags:
 
 ![immunosuppressant.png\|200](/Items/Azathioprine%20-%20Attachments/6718845db30472d958dd7e05.png)
 
-Original URL: https://trello.com/c/WQIQ3sHg
+> [!info] [Trello card](https://trello.com/c/WQIQ3sHg/163-azathioprine)
 
 ---
 

@@ -7,7 +7,7 @@ tags:
 
 ![tile041.png\|200](/Lungs/Lung%20Damage%20-%20Attachments/6718845db30472d958dd7a45.png)
 
-Original URL: https://trello.com/c/PFrJgpTj
+> [!info] [Trello card](https://trello.com/c/PFrJgpTj/3-lung-damage)
 
 ---
 

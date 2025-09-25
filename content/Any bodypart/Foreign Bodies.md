@@ -7,7 +7,7 @@ tags:
 
 ![NT\_foreign\_bodies.png](https:/trello.com/1/cards/632c37ecf83eee01ac60baaa/attachments/647c6673dbcfcbc5a451a716/download/NT_foreign_bodies.png)
 
-Original URL: https://trello.com/c/aKt3QfJB
+> [!info] [Trello card](https://trello.com/c/aKt3QfJB/111-foreign-bodies)
 
 ---
 

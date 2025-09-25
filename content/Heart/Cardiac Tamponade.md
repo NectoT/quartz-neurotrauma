@@ -7,7 +7,7 @@ tags:
 
 ![tile013(1).png\|200](/Heart/Cardiac%20Tamponade%20-%20Attachments/6718845db30472d958dd7bcf.png)
 
-Original URL: https://trello.com/c/YpV6CO5T
+> [!info] [Trello card](https://trello.com/c/YpV6CO5T/69-cardiac-tamponade)
 
 ---
 

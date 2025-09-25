@@ -6,7 +6,7 @@ tags:
 
 ![1tile023.png\|200](/Items/archived/Organ%20Procurement%20Scalpels%20-%20Attachments/6718845db30472d958dd7db1.png)
 
-Original URL: https://trello.com/c/pYZLWrbE
+> [!info] [Trello card](https://trello.com/c/pYZLWrbE/148-organ-procurement-scalpels)
 
 ---
 

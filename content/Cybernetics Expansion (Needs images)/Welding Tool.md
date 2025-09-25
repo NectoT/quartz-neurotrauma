@@ -7,7 +7,7 @@ tags:
 
 ![Welding Tool.png\|200](/Cybernetics Expansion (Needs images)/Welding%20Tool%20-%20Attachments/6718845db30472d958dd7e5f.png)
 
-Original URL: https://trello.com/c/21nVBFRs
+> [!info] [Trello card](https://trello.com/c/21nVBFRs/180-welding-tool)
 
 ---
 

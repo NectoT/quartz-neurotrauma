@@ -7,7 +7,7 @@ tags:
 
 ![tile016(2).png\|200](/Symptoms/Fever%20-%20Attachments/6718845db30472d958dd7aab.png)
 
-Original URL: https://trello.com/c/gtYt64Cs
+> [!info] [Trello card](https://trello.com/c/gtYt64Cs/20-fever)
 
 ---
 

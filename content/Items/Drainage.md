@@ -7,7 +7,7 @@ tags:
 
 ![1tile021.png\|200](/Items/Drainage%20-%20Attachments/6718845db30472d958dd7c6e.png)
 
-Original URL: https://trello.com/c/bjeJYws4
+> [!info] [Trello card](https://trello.com/c/bjeJYws4/96-drainage)
 
 ---
 

@@ -6,7 +6,7 @@ tags:
 
 ![icepack.png\|200](/Items/Gel%20Ice%20Pack%20-%20Attachments/67193eb8fb57ea8508e2ac64.png)
 
-Original URL: https://trello.com/c/7vxSRioR
+> [!info] [Trello card](https://trello.com/c/7vxSRioR/2-gel-ice-pack)
 
 ---
 

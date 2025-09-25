@@ -1,6 +1,6 @@
 ![refrigeratedcontainer.png\|200](/Items/Refrigerated%20Container%20-%20Attachments/681195020570b80b4336dc22.png)
 
-Original URL: https://trello.com/c/PDEBCrMK
+> [!info] [Trello card](https://trello.com/c/PDEBCrMK/24-refrigerated-container)
 
 ---
 

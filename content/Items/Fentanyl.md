@@ -6,7 +6,7 @@ tags:
 
 ![Fentanyl.png\|200](/Items/Fentanyl%20-%20Attachments/6718845db30472d958dd7d36.png)
 
-Original URL: https://trello.com/c/WixNh67K
+> [!info] [Trello card](https://trello.com/c/WixNh67K/127-fentanyl)
 
 ---
 

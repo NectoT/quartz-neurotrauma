@@ -6,7 +6,7 @@ tags:
 
 ![lungs.png\|200](/Items/Lung%20Transplant%20-%20Attachments/680729022cb8c121adf73bd4.png)
 
-Original URL: https://trello.com/c/kg5Vaxcq
+> [!info] [Trello card](https://trello.com/c/kg5Vaxcq/21-lung-transplant)
 
 ---
 

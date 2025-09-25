@@ -7,7 +7,7 @@ tags:
 
 ![tile016(1).png\|200](/Blood/Sepsis%20-%20Attachments/6718845db30472d958dd7adb.png)
 
-Original URL: https://trello.com/c/izLM6j4u
+> [!info] [Trello card](https://trello.com/c/izLM6j4u/28-sepsis)
 
 ---
 

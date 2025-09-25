@@ -8,7 +8,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/EiT0ucpI
+> [!info] [Trello card](https://trello.com/c/EiT0ucpI/9-cyberbrain-implant)
 
 ---
 

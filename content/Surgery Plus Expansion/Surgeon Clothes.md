@@ -7,7 +7,7 @@ tags:
 
 ![Surgeon clothes.png\|200](/Surgery Plus Expansion/Surgeon%20Clothes%20-%20Attachments/6718845db30472d958dd7e47.png)
 
-Original URL: https://trello.com/c/CbOYH0rT
+> [!info] [Trello card](https://trello.com/c/CbOYH0rT/177-surgeon-clothes)
 
 ---
 

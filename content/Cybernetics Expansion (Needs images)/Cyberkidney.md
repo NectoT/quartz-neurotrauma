@@ -8,7 +8,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/kV0rDyui
+> [!info] [Trello card](https://trello.com/c/kV0rDyui/8-cyberkidney)
 
 ---
 

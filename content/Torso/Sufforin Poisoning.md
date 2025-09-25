@@ -8,7 +8,7 @@ tags:
 
 ![image_2022-10-04_130241884.png\|200](/Torso/Sufforin%20Poisoning%20-%20Attachments/68045a99168cdecd5f71f979.png)
 
-Original URL: https://trello.com/c/RgZecv2D
+> [!info] [Trello card](https://trello.com/c/RgZecv2D/11-sufforin-poisoning)
 
 ---
 

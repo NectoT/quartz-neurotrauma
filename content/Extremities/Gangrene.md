@@ -8,7 +8,7 @@ tags:
 
 ![tile030(1).png\|200](/Extremities/Gangrene%20-%20Attachments/6718845db30472d958dd7c80.png)
 
-Original URL: https://trello.com/c/juRmq1Kc
+> [!info] [Trello card](https://trello.com/c/juRmq1Kc/99-gangrene)
 
 ---
 

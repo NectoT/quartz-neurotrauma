@@ -7,7 +7,7 @@ tags:
 
 ![bleeding.png\|200](/Any bodypart/Bleeding%20-%20Attachments/6718845db30472d958dd7e86.png)
 
-Original URL: https://trello.com/c/Ik4GgNCD
+> [!info] [Trello card](https://trello.com/c/Ik4GgNCD/187-bleeding)
 
 ---
 

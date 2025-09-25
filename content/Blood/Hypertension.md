@@ -6,7 +6,7 @@ tags:
 
 ![tile020(1).png\|200](/Blood/Hypertension%20-%20Attachments/6718845db30472d958dd7acf.png)
 
-Original URL: https://trello.com/c/JSLKK7ld
+> [!info] [Trello card](https://trello.com/c/JSLKK7ld/26-hypertension)
 
 ---
 

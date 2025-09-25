@@ -7,7 +7,7 @@ tags:
 
 ![hemostat.png\|200](/Items/Hemostat%20-%20Attachments/6718845db30472d958dd7b7b.png)
 
-Original URL: https://trello.com/c/AEm1xk0y
+> [!info] [Trello card](https://trello.com/c/AEm1xk0y/55-hemostat)
 
 ---
 

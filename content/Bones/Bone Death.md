@@ -6,7 +6,7 @@ tags:
 
 ![tile031.png\|200](/Bones/Bone%20Death%20-%20Attachments/6718845db30472d958dd7c12.png)
 
-Original URL: https://trello.com/c/gmYMZ7Oi
+> [!info] [Trello card](https://trello.com/c/gmYMZ7Oi/80-bone-death)
 
 ---
 

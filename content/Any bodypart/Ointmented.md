@@ -7,7 +7,7 @@ tags:
 
 ![ointment.png\|200](/Any bodypart/Ointmented%20-%20Attachments/6718845db30472d958dd7e1f.png)
 
-Original URL: https://trello.com/c/5nLqeAoq
+> [!info] [Trello card](https://trello.com/c/5nLqeAoq/168-ointmented)
 
 ---
 

@@ -7,7 +7,7 @@ tags:
 
 ![intbleed.png\|200](/Torso/Internal%20Bleeding%20-%20Attachments/6718845db30472d958dd7bab.png)
 
-Original URL: https://trello.com/c/soiHRqWk
+> [!info] [Trello card](https://trello.com/c/soiHRqWk/63-internal-bleeding)
 
 ---
 

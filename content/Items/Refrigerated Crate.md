@@ -1,6 +1,6 @@
 ![refrigeratedcrate.png\|200](/Items/Refrigerated%20Crate%20-%20Attachments/6811973275003bdb105762be.png)
 
-Original URL: https://trello.com/c/qTX1Of6F
+> [!info] [Trello card](https://trello.com/c/qTX1Of6F/25-refrigerated-crate)
 
 ---
 

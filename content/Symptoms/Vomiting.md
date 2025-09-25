@@ -7,7 +7,7 @@ tags:
 
 ![tile015(2).png\|200](/Symptoms/Vomiting%20-%20Attachments/6718845db30472d958dd7aa5.png)
 
-Original URL: https://trello.com/c/wyhky1Og
+> [!info] [Trello card](https://trello.com/c/wyhky1Og/19-vomiting)
 
 ---
 

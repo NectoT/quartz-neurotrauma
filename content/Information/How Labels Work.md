@@ -5,7 +5,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/G1Rz0EbX
+> [!info] [Trello card](https://trello.com/c/G1Rz0EbX/110-how-labels-work)
 
 ---
 

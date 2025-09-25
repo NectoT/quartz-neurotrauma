@@ -8,7 +8,7 @@ tags:
 
 ![image_2022-10-04_130416437.png\|200](/Torso/Morbusine%20Poisoning%20-%20Attachments/6718845db30472d958dd7d6c.png)
 
-Original URL: https://trello.com/c/cECw5FD0
+> [!info] [Trello card](https://trello.com/c/cECw5FD0/136-morbusine-poisoning)
 
 ---
 

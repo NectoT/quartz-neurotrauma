@@ -7,7 +7,7 @@ tags:
 
 ![tile049(1).png\|200](/Extremities/Traumatic%20Amputation%20-%20Attachments/6718845db30472d958dd7b13.png)
 
-Original URL: https://trello.com/c/8sYpoJcP
+> [!info] [Trello card](https://trello.com/c/8sYpoJcP/37-traumatic-amputation)
 
 ---
 

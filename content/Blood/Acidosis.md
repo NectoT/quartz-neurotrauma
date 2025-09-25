@@ -7,7 +7,7 @@ tags:
 
 ![tile027(2).png\|200](/Blood/Acidosis%20-%20Attachments/6718845db30472d958dd7ae1.png)
 
-Original URL: https://trello.com/c/Zyo6rMxL
+> [!info] [Trello card](https://trello.com/c/Zyo6rMxL/29-acidosis)
 
 ---
 

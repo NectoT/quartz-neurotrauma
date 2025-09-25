@@ -8,7 +8,7 @@ tags:
 
 ![tile024(1).png\|200](/Bones/Dislocations%20-%20Attachments/6718845db30472d958dd7b07.png)
 
-Original URL: https://trello.com/c/TDmMCoxW
+> [!info] [Trello card](https://trello.com/c/TDmMCoxW/35-dislocations)
 
 ---
 

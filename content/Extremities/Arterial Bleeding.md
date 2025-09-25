@@ -7,7 +7,7 @@ tags:
 
 ![tile027(1).png\|200](/Extremities/Arterial%20Bleeding%20-%20Attachments/6718845db30472d958dd7bb7.png)
 
-Original URL: https://trello.com/c/QRgR5DRH
+> [!info] [Trello card](https://trello.com/c/QRgR5DRH/65-arterial-bleeding)
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 
 ![traumashock.png\|200](/Surgery/Traumatic%20Shock%20-%20Attachments/6718845db30472d958dd7b99.png)
 
-Original URL: https://trello.com/c/oqf31mmu
+> [!info] [Trello card](https://trello.com/c/oqf31mmu/60-traumatic-shock)
 
 ---
 

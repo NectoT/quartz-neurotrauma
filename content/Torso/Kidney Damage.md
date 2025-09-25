@@ -7,7 +7,7 @@ tags:
 
 ![tile042.png\|200](/Torso/Kidney%20Damage%20-%20Attachments/6718845db30472d958dd7b25.png)
 
-Original URL: https://trello.com/c/LhhaWEbe
+> [!info] [Trello card](https://trello.com/c/LhhaWEbe/41-kidney-damage)
 
 ---
 

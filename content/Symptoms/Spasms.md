@@ -7,7 +7,7 @@ tags:
 
 ![tile023(1).png\|200](/Symptoms/Spasms%20-%20Attachments/6718845db30472d958dd7e2d.png)
 
-Original URL: https://trello.com/c/PBuVE347
+> [!info] [Trello card](https://trello.com/c/PBuVE347/172-spasms)
 
 ---
 

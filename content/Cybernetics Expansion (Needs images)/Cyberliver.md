@@ -8,7 +8,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/OEuG8ZSK
+> [!info] [Trello card](https://trello.com/c/OEuG8ZSK/7-cyberliver)
 
 ---
 

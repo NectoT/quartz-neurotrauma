@@ -6,7 +6,7 @@ tags:
 
 ![liver.png\|200](/Items/Liver%20Transplant%20-%20Attachments/680728d18be9f63619eb39c0.png)
 
-Original URL: https://trello.com/c/vHMko1qD
+> [!info] [Trello card](https://trello.com/c/vHMko1qD/18-liver-transplant)
 
 ---
 

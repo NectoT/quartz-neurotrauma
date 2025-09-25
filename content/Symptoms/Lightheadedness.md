@@ -8,7 +8,7 @@ tags:
 
 ![lighthead.png\|200](/Symptoms/Lightheadedness%20-%20Attachments/6718845db30472d958dd7a81.png)
 
-Original URL: https://trello.com/c/Zw1eJknd
+> [!info] [Trello card](https://trello.com/c/Zw1eJknd/13-lightheadedness)
 
 ---
 

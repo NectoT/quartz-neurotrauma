@@ -7,7 +7,7 @@ tags:
 
 ![fib2.png\|200](/Heart/Irregular%20Heartbeat%20-%20Attachments/6718845db30472d958dd7afb.png)
 
-Original URL: https://trello.com/c/fcYb2TZr
+> [!info] [Trello card](https://trello.com/c/fcYb2TZr/33-irregular-heartbeat)
 
 ---
 

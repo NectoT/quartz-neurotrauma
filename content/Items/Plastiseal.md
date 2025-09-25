@@ -7,7 +7,7 @@ tags:
 
 ![image.png\|200](/Items/Plastiseal%20-%20Attachments/6718845db30472d958dd7cbb.png)
 
-Original URL: https://trello.com/c/Qfuh5JpU
+> [!info] [Trello card](https://trello.com/c/Qfuh5JpU/109-plastiseal)
 
 ---
 

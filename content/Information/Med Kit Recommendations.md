@@ -5,7 +5,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/nyWQsb6U
+> [!info] [Trello card](https://trello.com/c/nyWQsb6U/170-med-kit-recommendations)
 
 ---
 

@@ -6,7 +6,7 @@ tags:
 
 ![Morphine.png\|200](/Items/Morphine%20-%20Attachments/6718845db30472d958dd7d30.png)
 
-Original URL: https://trello.com/c/g3uwcTwE
+> [!info] [Trello card](https://trello.com/c/g3uwcTwE/126-morphine)
 
 ---
 

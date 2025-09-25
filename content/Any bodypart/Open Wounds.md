@@ -8,7 +8,7 @@ tags:
 
 ![openwounds.png\|200](/Any bodypart/Open%20Wounds%20-%20Attachments/6811a40d40bd2c556f856fb9.png)
 
-Original URL: https://trello.com/c/RWzQPcQe
+> [!info] [Trello card](https://trello.com/c/RWzQPcQe/27-open-wounds)
 
 ---
 

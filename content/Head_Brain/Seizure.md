@@ -8,7 +8,7 @@ tags:
 
 ![tile001(1).png\|200](/Head_Brain/Seizure%20-%20Attachments/6718845db30472d958dd7a3f.png)
 
-Original URL: https://trello.com/c/tZjZplZQ
+> [!info] [Trello card](https://trello.com/c/tZjZplZQ/2-seizure)
 
 ---
 

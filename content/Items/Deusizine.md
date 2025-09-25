@@ -7,7 +7,7 @@ tags:
 
 ![tile182.png\|200](/Items/Deusizine%20-%20Attachments/6718845db30472d958dd7d4e.png)
 
-Original URL: https://trello.com/c/G5PtGzoW
+> [!info] [Trello card](https://trello.com/c/G5PtGzoW/131-deusizine)
 
 ---
 

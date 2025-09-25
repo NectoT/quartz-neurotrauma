@@ -6,7 +6,7 @@ tags:
 
 ![tile122.png\|200](/Items/Hyperzine%20-%20Attachments/6718845db30472d958dd7d7e.png)
 
-Original URL: https://trello.com/c/uj6afllv
+> [!info] [Trello card](https://trello.com/c/uj6afllv/139-hyperzine)
 
 ---
 

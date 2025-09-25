@@ -7,7 +7,7 @@ tags:
 
 ![image_2022-08-29_154210406.png\|200](/Head_Brain/Concussion%20-%20Attachments/6718845db30472d958dd7c32.png)
 
-Original URL: https://trello.com/c/mpEvY3eD
+> [!info] [Trello card](https://trello.com/c/mpEvY3eD/85-concussion)
 
 ---
 

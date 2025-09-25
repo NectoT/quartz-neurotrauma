@@ -6,7 +6,7 @@ tags:
 
 ![organtransplant.png\|200](/Procedures/Organ%20Transplant%20Surgery%20-%20Attachments/6718845db30472d958dd7c44.png)
 
-Original URL: https://trello.com/c/BcTd6903
+> [!info] [Trello card](https://trello.com/c/BcTd6903/88-organ-transplant-surgery)
 
 ---
 

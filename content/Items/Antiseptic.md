@@ -6,7 +6,7 @@ tags:
 
 ![antiseptic.png\|200](/Items/Antiseptic%20-%20Attachments/6718845db30472d958dd7d06.png)
 
-Original URL: https://trello.com/c/r9tCsgBr
+> [!info] [Trello card](https://trello.com/c/r9tCsgBr/118-antiseptic)
 
 ---
 

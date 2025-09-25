@@ -7,7 +7,7 @@ tags:
 
 ![antibio2.png\|200](/Items/Broad-spectrum%20Antibiotics%20-%20Attachments/6718845db30472d958dd7d60.png)
 
-Original URL: https://trello.com/c/Kag4nsK5
+> [!info] [Trello card](https://trello.com/c/Kag4nsK5/134-broad-spectrum-antibiotics)
 
 ---
 

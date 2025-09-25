@@ -7,7 +7,7 @@ tags:
 
 ![aantibio.png\|200](/Items/Antibiotic%20Glue%20-%20Attachments/6718845db30472d958dd7d54.png)
 
-Original URL: https://trello.com/c/04os8H52
+> [!info] [Trello card](https://trello.com/c/04os8H52/132-antibiotic-glue)
 
 ---
 

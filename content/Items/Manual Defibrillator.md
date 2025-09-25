@@ -6,7 +6,7 @@ tags:
 
 ![graph.png](https:/trello.com/1/cards/632d76e03ce73b033c01e1e8/attachments/632d7869a3557a0052338185/download/graph.png)
 
-Original URL: https://trello.com/c/dEiw6dId
+> [!info] [Trello card](https://trello.com/c/dEiw6dId/112-manual-defibrillator)
 
 ---
 

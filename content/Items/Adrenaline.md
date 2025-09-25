@@ -6,7 +6,7 @@ tags:
 
 ![image.png\|200](/Items/Adrenaline%20-%20Attachments/6718845db30472d958dd7c5c.png)
 
-Original URL: https://trello.com/c/seoyWFV8
+> [!info] [Trello card](https://trello.com/c/seoyWFV8/93-adrenaline)
 
 ---
 

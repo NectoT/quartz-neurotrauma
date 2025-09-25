@@ -7,7 +7,7 @@ tags:
 
 ![New Project (3).png\|200](/Heart/Fibrillation%20-%20Attachments/6718845db30472d958dd7b49.png)
 
-Original URL: https://trello.com/c/2ITUWNVi
+> [!info] [Trello card](https://trello.com/c/2ITUWNVi/47-fibrillation)
 
 ---
 

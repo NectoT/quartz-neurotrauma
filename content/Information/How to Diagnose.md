@@ -5,7 +5,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/qF2Rvtbd
+> [!info] [Trello card](https://trello.com/c/qF2Rvtbd/89-how-to-diagnose)
 
 ---
 

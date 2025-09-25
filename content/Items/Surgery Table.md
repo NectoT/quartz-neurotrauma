@@ -6,7 +6,7 @@ tags:
 
 ![image_3.png\|200](/Items/Surgery%20Table%20-%20Attachments/6718845db30472d958dd7da2.png)
 
-Original URL: https://trello.com/c/yN3LZUwy
+> [!info] [Trello card](https://trello.com/c/yN3LZUwy/145-surgery-table)
 
 ---
 

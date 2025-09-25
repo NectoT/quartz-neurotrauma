@@ -8,7 +8,7 @@ tags:
 
 
 
-Original URL: https://trello.com/c/02mYKmy7
+> [!info] [Trello card](https://trello.com/c/02mYKmy7/6-cyberlung)
 
 ---
 

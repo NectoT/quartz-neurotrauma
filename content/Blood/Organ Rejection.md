@@ -7,7 +7,7 @@ tags:
 
 ![image.png](/Blood/Organ%20Rejection%20-%20Attachments/6810ae34113758a241fa3235.png)
 
-Original URL: https://trello.com/c/eASQMPVw
+> [!info] [Trello card](https://trello.com/c/eASQMPVw/23-organ-rejection)
 
 ---
 

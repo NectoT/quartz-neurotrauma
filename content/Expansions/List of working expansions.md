@@ -5,7 +5,7 @@ tags:
 
 ![expanions.png\|200](/Expansions/List%20of%20working%20expansions%20-%20Attachments/671a237dc5bd9a11603016ee.png)
 
-Original URL: https://trello.com/c/NHq7v8UY
+> [!info] [Trello card](https://trello.com/c/NHq7v8UY/1-list-of-working-expansions)
 
 ---
 
