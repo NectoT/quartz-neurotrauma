@@ -1,0 +1,1 @@
+This label is for items/afflictions relating to surgery. If an item with the "Surgery" label describes a medical skill check, replace it with surgical skill if you are using the surgery plus expansion.

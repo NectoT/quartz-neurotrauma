@@ -1,0 +1,1 @@
+This label is for afflictions that do not appear on the hematology analyzer, health interface or scanner.

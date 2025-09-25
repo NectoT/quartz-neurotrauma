@@ -1,0 +1,1 @@
+This label is for afflictions only lethal under certain circumstances (for instance, if the affliction is above a certain strength).

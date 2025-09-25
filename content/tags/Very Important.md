@@ -1,0 +1,1 @@
+This label is for items, while not absolutely essential, are still one of the best choices. Good doctors should usually have these on them.

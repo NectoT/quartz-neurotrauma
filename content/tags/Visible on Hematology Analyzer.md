@@ -1,0 +1,1 @@
+This label is for afflictions that are visible on the hematology analyzer.

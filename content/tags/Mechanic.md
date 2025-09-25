@@ -1,0 +1,1 @@
+This label is for cards that instead of describing an item or affliction, they describe a feature of the mod.

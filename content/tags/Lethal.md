@@ -1,0 +1,1 @@
+This label is for afflictions that can and will kill you quickly.

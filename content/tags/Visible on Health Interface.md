@@ -1,0 +1,1 @@
+This label is for afflictions that are visible on the health interface, which is visible when you press the H key on someone. These are usually just symptoms, but sometimes they can be other afflictions too.

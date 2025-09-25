@@ -1,0 +1,1 @@
+This label is for afflictions that get hidden when you are unconscious.

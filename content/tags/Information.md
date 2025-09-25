@@ -1,0 +1,1 @@
+This label is for cards that describe information outside of the mod, usually relating to the guide itself.

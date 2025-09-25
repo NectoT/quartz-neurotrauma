@@ -1,0 +1,1 @@
+This label is for afflictions that are visible on the handheld scanner. Most afflictions are visible on the scanner, though there are exceptions. Modded health scanners will work as well.
