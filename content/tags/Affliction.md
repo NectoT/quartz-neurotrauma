@@ -1,0 +1,1 @@
+Self-explanatory. This label is for afflictions.

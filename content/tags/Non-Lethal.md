@@ -1,0 +1,1 @@
+This label is for afflictions that either will never kill you, or simply take an extremely long time to kill you.

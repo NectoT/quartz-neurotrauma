@@ -1,0 +1,1 @@
+This label is for items that are essential for treating the afflictions they treat. Any good doctor should have items marked as essential.

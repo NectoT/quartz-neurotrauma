@@ -1,0 +1,1 @@
+This label is for items that while not usually treatments by themselves, can help buy time in order to get a proper treatment.
