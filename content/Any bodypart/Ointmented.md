@@ -5,7 +5,7 @@ tags:
 - Visible-on-Health-Interface
 ---
 
-![ointment.png\|200](/Any bodypart/Ointmented%20-%20Attachments/6718845db30472d958dd7e1f.png)
+![ointment.png\|200](/Any%20Bodypart/Ointmented%20-%20Attachments/6718845db30472d958dd7e1f.png)
 
 > [!info] [Trello card](https://trello.com/c/5nLqeAoq/168-ointmented)
 

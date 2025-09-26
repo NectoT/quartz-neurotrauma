@@ -5,7 +5,7 @@ tags:
 - Surgery-Plus-Expansion
 ---
 
-![tile028.png\|200](/Surgery Plus Expansion/Surgical%20Infection%20-%20Attachments/671a204126366371231290e3.png)
+![tile028.png\|200](/Surgery%20Plus%20Expansion/Surgical%20Infection%20-%20Attachments/671a204126366371231290e3.png)
 
 > [!info] [Trello card](https://trello.com/c/gYaba5N5/156-surgical-infection)
 

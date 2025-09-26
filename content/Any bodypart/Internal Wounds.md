@@ -6,7 +6,7 @@ tags:
 - Lethality-Depends
 ---
 
-![bft.png\|200](/Any bodypart/Internal%20Wounds%20-%20Attachments/68135c1d078fdecdd0864b3f.png)
+![bft.png\|200](/Any%20Bodypart/Internal%20Wounds%20-%20Attachments/68135c1d078fdecdd0864b3f.png)
 
 > [!info] [Trello card](https://trello.com/c/tj9SaBlj/30-internal-wounds)
 

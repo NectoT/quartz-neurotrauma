@@ -5,7 +5,7 @@ tags:
 - Cybernetics-Expansion
 ---
 
-![Cyberleg.png\|200](/Cybernetics Expansion (Needs images)/Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png)
+![Cyberleg.png\|200](/Cybernetics%20Expansion%20(Needs%20images)/Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png)
 
 > [!info] [Trello card](https://trello.com/c/1hY5nRPU/150-cybernetic-leg)
 

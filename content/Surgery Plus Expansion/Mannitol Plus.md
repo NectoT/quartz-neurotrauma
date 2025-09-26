@@ -5,7 +5,7 @@ tags:
 - Surgery-Plus-Expansion
 ---
 
-![Mannitol Plus.png\|200](/Surgery Plus Expansion/Mannitol%20Plus%20-%20Attachments/6718845db30472d958dd7dc9.png)
+![Mannitol Plus.png\|200](/Surgery%20Plus%20Expansion/Mannitol%20Plus%20-%20Attachments/6718845db30472d958dd7dc9.png)
 
 > [!info] [Trello card](https://trello.com/c/QrAmCqWQ/152-mannitol-plus)
 

@@ -7,7 +7,7 @@ tags:
 - Cybernetics-Expansion
 ---
 
-![materialloss.png\|200](/Cybernetics Expansion (Needs images)/Material%20Loss%20-%20Attachments/6718845db30472d958dd7dff.png)
+![materialloss.png\|200](/Cybernetics%20Expansion%20(Needs%20images)/Material%20Loss%20-%20Attachments/6718845db30472d958dd7dff.png)
 
 > [!info] [Trello card](https://trello.com/c/nQjhIy4G/162-material-loss)
 

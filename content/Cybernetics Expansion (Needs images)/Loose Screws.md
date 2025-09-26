@@ -7,7 +7,7 @@ tags:
 - Item
 ---
 
-![screws.png\|200](/Cybernetics Expansion (Needs images)/Loose%20Screws%20-%20Attachments/6718845db30472d958dd7df9.png)
+![screws.png\|200](/Cybernetics%20Expansion%20(Needs%20images)/Loose%20Screws%20-%20Attachments/6718845db30472d958dd7df9.png)
 
 > [!info] [Trello card](https://trello.com/c/lRIOAnzG/161-loose-screws)
 

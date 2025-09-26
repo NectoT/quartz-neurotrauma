@@ -5,7 +5,7 @@ tags:
 - Lethality-Depends
 ---
 
-![tile028.png\|200](/Any bodypart/Infected%20Wounds%20-%20Attachments/6718845db30472d958dd7c86.png)
+![tile028.png\|200](/Any%20Bodypart/Infected%20Wounds%20-%20Attachments/6718845db30472d958dd7c86.png)
 
 > [!info] [Trello card](https://trello.com/c/PjAAGvjn/100-infected-wounds)
 

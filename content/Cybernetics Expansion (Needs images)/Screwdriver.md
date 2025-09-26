@@ -5,7 +5,7 @@ tags:
 - Niche
 ---
 
-![Screwdriver.png\|200](/Cybernetics Expansion (Needs images)/Screwdriver%20-%20Attachments/6718845db30472d958dd7e65.png)
+![Screwdriver.png\|200](/Cybernetics%20Expansion%20(Needs%20images)/Screwdriver%20-%20Attachments/6718845db30472d958dd7e65.png)
 
 > [!info] [Trello card](https://trello.com/c/Qolzt8GI/181-screwdriver)
 

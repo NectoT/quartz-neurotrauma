@@ -5,7 +5,7 @@ tags:
 - Niche
 ---
 
-![Steel Bar.png\|200](/Cybernetics Expansion (Needs images)/Steel%20Bar%20-%20Attachments/6718845db30472d958dd7e59.png)
+![Steel Bar.png\|200](/Cybernetics%20Expansion%20(Needs%20images)/Steel%20Bar%20-%20Attachments/6718845db30472d958dd7e59.png)
 
 > [!info] [Trello card](https://trello.com/c/ewkLUx6Z/179-steel-bar)
 

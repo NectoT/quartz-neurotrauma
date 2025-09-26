@@ -5,7 +5,7 @@ tags:
 - Surgery-Plus-Expansion
 ---
 
-![Triage Card.png\|200](/Surgery Plus Expansion/Triage%20Card%20-%20Attachments/6718845db30472d958dd7ddb.png)
+![Triage Card.png\|200](/Surgery%20Plus%20Expansion/Triage%20Card%20-%20Attachments/6718845db30472d958dd7ddb.png)
 
 > [!info] [Trello card](https://trello.com/c/wKaI81zg/155-triage-card)
 

@@ -5,7 +5,7 @@ tags:
 - Surgery-Plus-Expansion
 ---
 
-![Brain Jar.png\|200](/Surgery Plus Expansion/Brain%20Jar%20-%20Attachments/6718845db30472d958dd7de1.png)
+![Brain Jar.png\|200](/Surgery%20Plus%20Expansion/Brain%20Jar%20-%20Attachments/6718845db30472d958dd7de1.png)
 
 > [!info] [Trello card](https://trello.com/c/BgN76dod/157-brain-jar)
 

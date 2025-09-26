@@ -5,7 +5,7 @@ tags:
 - Surgery-Plus-Expansion
 ---
 
-![SurgicalMask.png\|200](/Surgery Plus Expansion/Surgical%20Mask%20-%20Attachments/6718845db30472d958dd7dcf.png)
+![SurgicalMask.png\|200](/Surgery%20Plus%20Expansion/Surgical%20Mask%20-%20Attachments/6718845db30472d958dd7dcf.png)
 
 > [!info] [Trello card](https://trello.com/c/LYQLdltn/153-surgical-mask)
 
