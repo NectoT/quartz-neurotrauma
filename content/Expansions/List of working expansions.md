@@ -1,4 +1,4 @@
-# List of working expansions
+![expanions.png\|200](./List%20of%20working%20expansions%20-%20Attachments/671a237dc5bd9a11603016ee.png)
 
 Original URL: https://trello.com/c/NHq7v8UY
 
@@ -22,22 +22,4 @@ Original URL: https://trello.com/c/NHq7v8UY
 [NT Symbiote](https://steamcommunity.com/sharedfiles/filedetails/?id=3478666406 "‌")
 
 ---
-
-## Attachments
-
-id | original fileName | image
----|---|---
-[671a237dc5bd9a11603016ee](./List%20of%20working%20expansions%20-%20Attachments/671a237dc5bd9a11603016ee.png) | expanions.png | ![expanions.png\|200](./List%20of%20working%20expansions%20-%20Attachments/671a237dc5bd9a11603016ee.png)
-
----
-
-## Comments
-
-### ----------------------------------------
-
-[NT Bio Printer](https://steamcommunity.com/sharedfiles/filedetails/?id=3429100373 "‌")
-
-### ----------------------------------------
-
-Where symbiote
 

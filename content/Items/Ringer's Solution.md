@@ -1,4 +1,4 @@
-# Ringer's Solution
+![ringers.png\|200](./Ringer's%20Solution%20-%20Attachments/6718845db30472d958dd7c74.png)
 
 Original URL: https://trello.com/c/yHlWrV4x
 
@@ -22,8 +22,3 @@ Lasts for 120 seconds.
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7c74](./Ringer's%20Solution%20-%20Attachments/6718845db30472d958dd7c74.png) | ringers.png | ![ringers.png\|200](./Ringer's%20Solution%20-%20Attachments/6718845db30472d958dd7c74.png)

@@ -1,4 +1,4 @@
-# Coma
+![tile001.png\|200](./Coma%20-%20Attachments/6718845db30472d958dd7b51.png)
 
 Original URL: https://trello.com/c/kFlmjwBv
 
@@ -10,16 +10,16 @@ Coma often happens after suffocating, and usually isn't fatal with proper medica
 
 ## Caused by:
 
-- [[Stroke](Stroke.md)]([Stroke](Stroke.md) "smartCard-inline")
-- [[Cardiac Arrest](../Heart/Cardiac%20Arrest.md)]([Cardiac Arrest](../Heart/Cardiac%20Arrest.md) "smartCard-inline")
-- High levels of [[Acidosis](../Blood/Acidosis.md)]([Acidosis](../Blood/Acidosis.md) "smartCard-inline")  (60% or more)
-- [[Morbusine Poisoning](../Torso/Morbusine%20Poisoning.md)]([Morbusine Poisoning](../Torso/Morbusine%20Poisoning.md) "smartCard-inline") (20% or more)
-- Failing [[Naloxone](../Items/Naloxone.md)]([Naloxone](../Items/Naloxone.md) "smartCard-inline") skill check
+- [Stroke](Stroke.md)
+- [Cardiac Arrest](../Heart/Cardiac%20Arrest.md)
+- High levels of [Acidosis](../Blood/Acidosis.md)  (60% or more)
+- [Morbusine Poisoning](../Torso/Morbusine%20Poisoning.md) (20% or more)
+- Failing [Naloxone](../Items/Naloxone.md) skill check
 
 ## Effects:
 
-- [[Cardiac Arrest](../Heart/Cardiac%20Arrest.md)]([Cardiac Arrest](../Heart/Cardiac%20Arrest.md) "smartCard-inline") (at 40% or more)
-- [[Unconsciousness](Unconsciousness.md)]([Unconsciousness](Unconsciousness.md) "smartCard-inline") (at 15% or more)
+- [Cardiac Arrest](../Heart/Cardiac%20Arrest.md) (at 40% or more)
+- [Unconsciousness](Unconsciousness.md) (at 15% or more)
 
 ## Treatments:
 
@@ -27,8 +27,3 @@ Coma often happens after suffocating, and usually isn't fatal with proper medica
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7b51](./Coma%20-%20Attachments/6718845db30472d958dd7b51.png) | tile001.png | ![tile001.png\|200](./Coma%20-%20Attachments/6718845db30472d958dd7b51.png)

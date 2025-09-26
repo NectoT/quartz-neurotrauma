@@ -1,14 +1,14 @@
-# Surgical Amputation
+![tile049.png\|200](./Surgical%20Amputation%20-%20Attachments/6718845db30472d958dd7b19.png)
 
 Original URL: https://trello.com/c/d6VVIPD0
 
 ---
 
-Surgical amputation is the amputation of an extremity. Possible amputations include arms, legs, and the head. The head cannot be reattached after amputation. Unlike traumatic amputations, surgical amputations will not cause [[Arterial Bleeding](Arterial%20Bleeding.md)]([Arterial Bleeding](Arterial%20Bleeding.md) "smartCard-inline") upon first acquiring them.
+Surgical amputation is the amputation of an extremity. Possible amputations include arms, legs, and the head. The head cannot be reattached after amputation. Unlike traumatic amputations, surgical amputations will not cause [Arterial Bleeding](Arterial%20Bleeding.md) upon first acquiring them.
 
 ## Caused by:
 
-- [[Amputation Surgery](../Procedures/Amputation%20Surgery.md)]([Amputation Surgery](../Procedures/Amputation%20Surgery.md) "smartCard-inline")
+- [Amputation Surgery](../Procedures/Amputation%20Surgery.md)
 
 ## Effects:
 
@@ -28,12 +28,7 @@ Surgical amputation is the amputation of an extremity. Possible amputations incl
 
 ## Treatment:
 
-- Performing [[Amputation Surgery](../Procedures/Amputation%20Surgery.md)]([Amputation Surgery](../Procedures/Amputation%20Surgery.md) "smartCard-inline") (use severed limb before applying [[Sutures](../Items/Sutures.md)]([Sutures](../Items/Sutures.md) "smartCard-inline") )
+- Performing [Amputation Surgery](../Procedures/Amputation%20Surgery.md) (use severed limb before applying [Sutures](../Items/Sutures.md)
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7b19](./Surgical%20Amputation%20-%20Attachments/6718845db30472d958dd7b19.png) | tile049.png | ![tile049.png\|200](./Surgical%20Amputation%20-%20Attachments/6718845db30472d958dd7b19.png)

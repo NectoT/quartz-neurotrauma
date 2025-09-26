@@ -1,4 +1,4 @@
-# Multipurpose Scalpel
+![multiscalpel.png\|200](./Multipurpose%20Scalpel%20-%20Attachments/6718845db30472d958dd7e8c.png)
 
 Original URL: https://trello.com/c/UIkwLtDm
 
@@ -23,8 +23,3 @@ Notable outcomes include:
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7e8c](./Multipurpose%20Scalpel%20-%20Attachments/6718845db30472d958dd7e8c.png) | multiscalpel.png | ![multiscalpel.png\|200](./Multipurpose%20Scalpel%20-%20Attachments/6718845db30472d958dd7e8c.png)

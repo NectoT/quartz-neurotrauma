@@ -1,4 +1,4 @@
-# Artificial Brain
+![Artificial Brain.png\|200](./Artificial%20Brain%20-%20Attachments/6718845db30472d958dd7de7.png)
 
 Original URL: https://trello.com/c/au8p8Sdj
 
@@ -8,8 +8,3 @@ Replaces a patients brain when used after removing it. Protects against gaining 
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7de7](./Artificial%20Brain%20-%20Attachments/6718845db30472d958dd7de7.png) | Artificial_Brain.png | ![Artificial Brain.png\|200](./Artificial%20Brain%20-%20Attachments/6718845db30472d958dd7de7.png)

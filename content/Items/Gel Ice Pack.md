@@ -1,4 +1,4 @@
-# Gel Ice Pack
+![icepack.png\|200](./Gel%20Ice%20Pack%20-%20Attachments/67193eb8fb57ea8508e2ac64.png)
 
 Original URL: https://trello.com/c/7vxSRioR
 
@@ -10,18 +10,13 @@ A reusable cold pack used to promote the healing of blunt force trauma and for t
 
 ### Application success:
 
-- +100% [[Chilled](../Any%20bodypart/Chilled.md)]([Chilled](../Any%20bodypart/Chilled.md) "smartCard-inline")
+- +100% [Chilled](../Any%20bodypart/Chilled.md)
 - -35% condition on the Ice Pack
 
 ### Application failure:
 
-- +75% [[Chilled](../Any%20bodypart/Chilled.md)]([Chilled](../Any%20bodypart/Chilled.md) "smartCard-inline")
+- +75% [Chilled](../Any%20bodypart/Chilled.md)
 - -35% condition on the Ice Pack
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[67193eb8fb57ea8508e2ac64](./Gel%20Ice%20Pack%20-%20Attachments/67193eb8fb57ea8508e2ac64.png) | icepack.png | ![icepack.png\|200](./Gel%20Ice%20Pack%20-%20Attachments/67193eb8fb57ea8508e2ac64.png)

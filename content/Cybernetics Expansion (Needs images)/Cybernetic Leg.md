@@ -1,10 +1,10 @@
-# Cybernetic Leg
+![Cyberleg.png\|200](./Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png)
 
 Original URL: https://trello.com/c/1hY5nRPU
 
 ---
 
-A cybernetic leg that can be attached to any surgically amputated leg socket. Can be removed with a [[Crowbar](Crowbar.md)]([Crowbar](Crowbar.md) "smartCard-inline").
+A cybernetic leg that can be attached to any surgically amputated leg socket. Can be removed with a [Crowbar](Crowbar.md).
 
 ### Advantages of cyberlimbs:
 
@@ -40,8 +40,3 @@ Applies 20% [Internal Damage]([Internal Damage](../Any%20bodypart/archived/Inter
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7dbd](./Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png) | Cyberleg.png | ![Cyberleg.png\|200](./Cybernetic%20Leg%20-%20Attachments/6718845db30472d958dd7dbd.png)

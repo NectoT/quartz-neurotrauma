@@ -1,4 +1,4 @@
-# How to install Lua for Barotrauma (required by Neurotrauma)
+![1200px-Lua-Logo.svg.png\|200](./How%20to%20install%20Lua%20for%20Barotrauma%20(required%20by%20Neurotrauma)%20-%20Attachments/6718845db30472d958dd7e7d.png)
 
 Original URL: https://trello.com/c/8peFj5ez
 
@@ -27,8 +27,3 @@ For any further questions regarding Lua you can join the [Luatrauma discord serv
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7e7d](./How%20to%20install%20Lua%20for%20Barotrauma%20(required%20by%20Neurotrauma)%20-%20Attachments/6718845db30472d958dd7e7d.png) | 1200px-Lua-Logo.svg.png | ![1200px-Lua-Logo.svg.png\|200](./How%20to%20install%20Lua%20for%20Barotrauma%20(required%20by%20Neurotrauma)%20-%20Attachments/6718845db30472d958dd7e7d.png)

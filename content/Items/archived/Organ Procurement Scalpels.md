@@ -1,4 +1,4 @@
-# Organ Procurement Scalpels
+![1tile023.png\|200](./Organ%20Procurement%20Scalpels%20-%20Attachments/6718845db30472d958dd7db1.png)
 
 Original URL: https://trello.com/c/pYZLWrbE
 
@@ -18,8 +18,3 @@ An Organ Procurement Scalpel is used to extract the organ it is named after in o
 
 ---
 
-## Attachments
-
-id | original fileName | image
----|---|---
-[6718845db30472d958dd7db1](./Organ%20Procurement%20Scalpels%20-%20Attachments/6718845db30472d958dd7db1.png) | 1tile023.png | ![1tile023.png\|200](./Organ%20Procurement%20Scalpels%20-%20Attachments/6718845db30472d958dd7db1.png)
