@@ -5,7 +5,7 @@ tags:
 - Lethality-Depends
 ---
 
-![New Project (2).png\|200](/Any%20Bodypart/Burns%20-%20Attachments/6718845db30472d958dd7c2a.png)
+![New Project (2).png\|200](/Any%20bodypart/Burns%20-%20Attachments/6718845db30472d958dd7c2a.png)
 
 > [!info] [Trello card](https://trello.com/c/jhOUye3e/84-burns)
 

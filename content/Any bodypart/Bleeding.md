@@ -5,7 +5,7 @@ tags:
 - Lethality-Depends
 ---
 
-![bleeding.png\|200](/Any%20Bodypart/Bleeding%20-%20Attachments/6718845db30472d958dd7e86.png)
+![bleeding.png\|200](/Any%20bodypart/Bleeding%20-%20Attachments/6718845db30472d958dd7e86.png)
 
 > [!info] [Trello card](https://trello.com/c/Ik4GgNCD/187-bleeding)
 

@@ -5,7 +5,7 @@ tags:
 - Non-Lethal
 ---
 
-![iced.png\|200](/Any%20Bodypart/Chilled%20-%20Attachments/6804607ff0ff7074bd8dd3a2.png)
+![iced.png\|200](/Any%20bodypart/Chilled%20-%20Attachments/6804607ff0ff7074bd8dd3a2.png)
 
 > [!info] [Trello card](https://trello.com/c/ajH66mfk/3-chilled)
 
