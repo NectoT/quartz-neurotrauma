@@ -6,7 +6,9 @@ tags:
 
 ![NT-thumb.jpg\|200](/Information/Neurotrauma%20Fork%20-%20Attachments/6718d3e5473540f134cda043.jpg)
 
-This is a port of [Trello guide](https://trello.com/c/FPhwASpj) for [Neurotrauma Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=3190189044 "‌") mod. The site is generated using [Quartz](https://quartz.jzhao.xyz/), and most of the content was migrated using [t2md](https://github.com/GSGBen/t2md) tool.
+This is a port of a [Trello guide](https://trello.com/c/FPhwASpj) for [Neurotrauma Fork](https://steamcommunity.com/sharedfiles/filedetails/?id=3190189044 "‌") mod. The site is generated using [Quartz](https://quartz.jzhao.xyz/), and most of the content was migrated using [t2md](https://github.com/GSGBen/t2md) tool.
+
+See the [GitHub repository](https://github.com/NectoT/quartz-neurotrauma) to fork this version and edit it yourself, or to leave an issue about missing info, or any other suggestions.
 
 ---
 
