@@ -13,9 +13,9 @@ tags:
 
 The surgeon clothes is a wearable item that increases sterility when worn, decreasing risk of [Surgical Infection](Surgical%20Infection.md).
 
-\-10% [Blunt force trauma]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
-\-10% [Lacerations]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
-\-10% [Bite wounds]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
+\-10% [[Internal Wounds#Blunt force trauma|Blunt force trauma]]
+\-10% [[Open Wounds#Lacerations|Lacerations]]
+\-10% [[Open Wounds#Bite wounds|Bite wounds]]
 
 ---
 

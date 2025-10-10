@@ -17,12 +17,12 @@ The second step in **all** surgical procedures. The scalpel will **not** work wi
 
 ### Application success:
 
-Gives [Surgery Incision](../Surgery/Surgery%20Incision.md) on the limb the tool was used on, and will remove any [Plaster Cast](../Extremities/Plaster%20Cast.md) or [bandages]([Bandaged](../Any%20bodypart/Bandaged.md) "‌").
+Gives [Surgery Incision](../Surgery/Surgery%20Incision.md) on the limb the tool was used on, and will remove any [Plaster Cast](../Extremities/Plaster%20Cast.md) or [bandages](../Any%20bodypart/Bandaged.md).
 
 ### Application failure:
 
 \+15% [Bleeding](../Any%20bodypart/Bleeding.md)
-\+10% [lacerations]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
+\+10% [[Open Wounds#Lacerations|Lacerations]]
 
 ---
 

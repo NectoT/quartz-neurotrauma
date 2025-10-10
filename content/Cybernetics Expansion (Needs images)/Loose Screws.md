@@ -19,7 +19,7 @@ tags:
 - 75% chance for lacerations to cause 25% of their damage as loose screws
 - 80% chance for deep tissue damage to cause 100% of its damage as loose screws
 - 50% chance for blunt force trauma to cause 50% of its damage as loose screws
-- 75% chance for [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)  to cause 100% of its damage as loose screws
+- 75% chance for [[Internal Wounds#Internal damage|Internal Damage]]  to cause 100% of its damage as loose screws
 - 50% chance for bite wounds to cause 50% of their damage as loose screws
 - 75% chance for [Foreign Bodies](../Any%20bodypart/Foreign%20Bodies.md)  to cause 75% of its damage as loose screws
 

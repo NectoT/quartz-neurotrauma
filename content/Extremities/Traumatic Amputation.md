@@ -17,7 +17,7 @@ Traumatic amputation is the non-surgical amputation of an extremity. A traumatic
 
 ## Caused by:
 
-- [Blunt force trauma]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌")
+- [[Internal Wounds#Blunt force trauma|Blunt force trauma]]
 - [Open Wounds](../Any%20bodypart/Open%20Wounds.md)
 - [Material Loss](../Cybernetics%20Expansion%20(Needs%20images)/Material%20Loss.md) (99% or more)
 

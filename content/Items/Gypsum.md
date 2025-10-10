@@ -18,7 +18,7 @@ For each plaster cast applied to the player, they will get a 20% movement speed 
 
 ### Application success:
 
-Turns the applied [bandage]([Bandaged](../Any%20bodypart/Bandaged.md) "‌") into a [Plaster Cast](../Extremities/Plaster%20Cast.md), which will slowly heal arm and leg fractures encased in it.
+Turns the applied [bandage](../Any%20bodypart/Bandaged.md) into a [Plaster Cast](../Extremities/Plaster%20Cast.md), which will slowly heal arm and leg fractures encased in it.
 
 ### Application failure:
 

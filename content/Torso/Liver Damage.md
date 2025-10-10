@@ -15,7 +15,7 @@ Liver damage, if progressed to liver failure, is fatal and can cause massive blo
 
 ---
 
-\## Caused by:
+## Caused by:
 
 - [Broad-spectrum Antibiotics](../Items/Broad-spectrum%20Antibiotics.md)
 - [Liquid Oxygenite](../Items/Liquid%20Oxygenite.md)

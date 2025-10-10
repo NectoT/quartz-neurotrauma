@@ -12,7 +12,7 @@ tags:
 
 ### Medical skill check: 10
 
-A pair of scissors used to remove [Plaster Cast](../Extremities/Plaster%20Cast.md) and [bandages]([Bandaged](../Any%20bodypart/Bandaged.md) "‌").
+A pair of scissors used to remove [Plaster Cast](../Extremities/Plaster%20Cast.md) and [bandages](../Any%20bodypart/Bandaged.md).
 
 ### Application success:
 
@@ -21,7 +21,7 @@ Removes [Plaster Cast](../Extremities/Plaster%20Cast.md) , [Bandaged](../Any%20b
 ### Application failure:
 
 \+15% [Bleeding](../Any%20bodypart/Bleeding.md)
-\+10% [Lacerations]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
+\+10% [[Open Wounds#Lacerations|Lacerations]]
 
 ---
 

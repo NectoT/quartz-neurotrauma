@@ -33,7 +33,7 @@ A cybernetic arm that can be attached to any surgically amputated arm socket. Ca
 
 ## How to add:
 
-First do [Amputation Surgery]([Amputation Surgery](../Procedures/Amputation%20Surgery.md) "‌") on the selected limb, then use the cyberlimb on the chosen limb.
+First do [Amputation Surgery](../Procedures/Amputation%20Surgery.md) on the selected limb, then use the cyberlimb on the chosen limb.
 
 #### Mechanical skill requirement: 70
 
@@ -43,7 +43,7 @@ Applies the cyberlimb on the selected limb and heals any internal damage caused 
 
 #### Application Failure:
 
-Applies 20% [Internal Damage]([Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md) "‌") on the limb. Does not delete the cyberlimb.
+Applies 20% [[Internal Wounds#Internal damage|Internal Damage]] on the limb. Does not delete the cyberlimb.
 
 ---
 

@@ -28,7 +28,7 @@ The list of possible positive effects are as follows:
 - [Ointmented](../Any%20bodypart/Ointmented.md) (randomly picks from 20-100% strength)
 - [Combat Stimulant](https://barotraumagame.com/wiki/Combat_Stimulant_(Affliction) "‌") (randomly picks from 30-100% strength)
 - [Pressure Stabilized](https://barotraumagame.com/wiki/Pressure_Stabilized "‌") (randomly picks from 30-100% strength)
-- A full heal (treats 20-100% of [Wounds](../Any%20bodypart/archived/Wounds.md), [Vanilla Organ Damage](../Torso/Vanilla%20Organ%20Damage.md), [Neurotrauma](../Head_Brain/Neurotrauma.md) and [Blood Loss](../Blood/Blood%20Loss.md), and fully cures [Sepsis](../Blood/Sepsis.md)
+- A full heal (treats 20-100% of [Wounds](https://trello.com/c/yhDjfTqs), [Vanilla Organ Damage](../Torso/Vanilla%20Organ%20Damage.md), [Neurotrauma](../Head_Brain/Neurotrauma.md) and [Blood Loss](../Blood/Blood%20Loss.md), and fully cures [Sepsis](../Blood/Sepsis.md)
 
 ---
 
@@ -36,7 +36,7 @@ The list of possible negative effects are as follows:
 
 ---
 
-- [Wounds](../Any%20bodypart/archived/Wounds.md) (5-20%
+- [Wounds](https://trello.com/c/yhDjfTqs) (5-20%)
 - [Bleeding](../Any%20bodypart/Bleeding.md) (30-80%)
 - Stuns for 2-15 seconds
 

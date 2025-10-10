@@ -17,7 +17,7 @@ Infected wounds are caused by letting wounds fester, and should be cleaned in or
 
 ## Caused by:
 
-- Open [Wounds](archived/Wounds.md) (lacerations, gunshot wounds, bite wounds, deep tissue injuries) fester.
+- Open [Wounds](https://trello.com/c/yhDjfTqs) (lacerations, gunshot wounds, bite wounds, deep tissue injuries) fester.
 - [Burns](Burns.md)
 - This will be sped up dramatically if there is a dirty bandage on a wound.
 

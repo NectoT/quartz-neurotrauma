@@ -16,7 +16,7 @@ Cardiac arrest will cause blood pressure to plummet significantly, and must be d
 
 ---
 
-\## Caused by:
+## Caused by:
 
 - [Heart Damage](Heart%20Damage.md) (at 100%)
 - [Traumatic Shock](../Surgery/Traumatic%20Shock.md) (40% or more)

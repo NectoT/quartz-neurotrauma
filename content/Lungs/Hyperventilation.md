@@ -15,7 +15,7 @@ Hyperventilation is normally harmless, and can usually be ignored. Hyperventilat
 
 ---
 
-\## Caused by:
+## Caused by:
 
 - [Hypotension](../Blood/Hypotension.md) (80% or less)
 - [Hypoxemia](../Blood/Hypoxemia.md) (10% or more)

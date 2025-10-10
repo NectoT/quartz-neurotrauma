@@ -22,7 +22,7 @@ Successfully using the surgical drill will give the patient [Drilled Bones](../S
 ### Application failure:
 
 \+15% [Bleeding](../Any%20bodypart/Bleeding.md)
-\+10% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\+10% [[Internal Wounds#Internal damage|Internal Damage]]
 
 ---
 

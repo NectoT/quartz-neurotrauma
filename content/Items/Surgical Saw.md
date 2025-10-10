@@ -22,8 +22,8 @@ Successfully using the surgical saw will give the patient [Sawed Bones](../Surge
 ### Application failure:
 
 \+15% [Bleeding](../Any%20bodypart/Bleeding.md)
-\+6% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
-\+4% [Lacerations]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
+\+6% [[Internal Wounds#Internal damage|Internal Damage]]
+\+4% [[Open Wounds#Lacerations|Lacerations]]
 
 ---
 

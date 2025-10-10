@@ -23,7 +23,7 @@ Immunity helps fight [Infected Wounds](../Any%20bodypart/Infected%20Wounds.md) a
 ## Helps heal:
 
 - [Burns](../Any%20bodypart/Burns.md)
-- [Wounds](../Any%20bodypart/archived/Wounds.md)
+- [Wounds](https://trello.com/c/yhDjfTqs)
 
 ---
 

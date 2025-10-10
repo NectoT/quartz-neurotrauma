@@ -21,7 +21,7 @@ Gives the patient [Retracted Skin](../Surgery/Retracted%20Skin.md) on the limb t
 
 ### Application failure:
 
-\+10% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\+10% [[Internal Wounds#Internal damage|Internal Damage]]
 
 ---
 

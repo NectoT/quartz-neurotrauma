@@ -22,7 +22,7 @@ Cures all fractures on the limb the implants were used on, and uses up 25% of th
 ### Application failure:
 
 \+5% [Bleeding](../Any%20bodypart/Bleeding.md)
-\+5% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\+5% [[Internal Wounds#Internal damage|Internal Damage]]
 
 ---
 

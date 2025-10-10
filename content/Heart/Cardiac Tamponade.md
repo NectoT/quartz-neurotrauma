@@ -17,7 +17,7 @@ Cardiac tamponade is common during missions involving combat outside the submari
 
 ## Caused by:
 
-- Receiving [Wounds](../Any%20bodypart/archived/Wounds.md) to the torso
+- Receiving [Wounds](https://trello.com/c/yhDjfTqs) to the torso
 
 ## Effects:
 

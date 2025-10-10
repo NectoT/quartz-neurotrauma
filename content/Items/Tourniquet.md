@@ -21,7 +21,7 @@ Prevents [Blood Loss](../Blood/Blood%20Loss.md) caused by [Arterial Bleeding](..
 
 ### Application failure:
 
-\+6% [Blunt force trauma]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
+\+6% [[Internal Wounds#Blunt force trauma|Blunt force trauma]]
 
 ---
 

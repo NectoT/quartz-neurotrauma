@@ -13,7 +13,7 @@ tags:
 
 The Surgical Mask is a wearable item that increases sterility when worn, decreasing risk of [Surgical Infection](Surgical%20Infection.md).
 
-\-10% [Lacerations]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
+\-10% [[Open Wounds#Lacerations|Lacerations]]
 \-20% [Bleeding](../Any%20bodypart/Bleeding.md)
 
 ---

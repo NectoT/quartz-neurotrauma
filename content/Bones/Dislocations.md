@@ -27,14 +27,14 @@ Dislocations are common injuries, which most crewmembers will get often. Disloca
 - 1 leg dislocation will halve speed
 - 2 leg dislocations will make you crawl.
 - [Intense Pain](../Symptoms/Intense%20Pain.md)
-- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md) or [sedated]([Analgesia](../Torso/Analgesia.md) "‌")
+- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md) or [sedated](../Torso/Analgesia.md)
 
 ### In arm dislocations:
 
 - 1 arm dislocation will prevent you from using that arm (you cant hold 2-handed items anymore)
 - 2 arm dislocations will prevent you from interacting with anything, such as doors, ladders, buttons, etc.
 - [Intense Pain](../Symptoms/Intense%20Pain.md)
-- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md) or [sedated]([Analgesia](../Torso/Analgesia.md) "‌")
+- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md) or [sedated]((../Torso/Analgesia.md)
 
 ## Treatments:
 

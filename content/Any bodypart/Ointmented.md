@@ -11,7 +11,7 @@ tags:
 
 ---
 
-Ointmented will help protect [Wounds](archived/Wounds.md) from infection and is very useful for patients suffering from [Burns](Burns.md). Ointmented will also help prevent [Surgical Infection](../Surgery%20Plus%20Expansion/Surgical%20Infection.md) if it is applied to the body part that surgery is being done on.
+Ointmented will help protect [Wounds](https://trello.com/c/yhDjfTqs) from infection and is very useful for patients suffering from [Burns](Burns.md). Ointmented will also help prevent [Surgical Infection](../Surgery%20Plus%20Expansion/Surgical%20Infection.md) if it is applied to the body part that surgery is being done on.
 
 ---
 

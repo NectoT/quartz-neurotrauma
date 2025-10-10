@@ -12,7 +12,7 @@ tags:
 
 ### Medical skill check: None
 
-A blood thinner. Using streptokinase will prevent natural [bleeding ]([Bleeding](../Any%20bodypart/Bleeding.md) "‌")regeneration and increases the chance of getting a [Stroke](../Head_Brain/Stroke.md) if the patient has more than 150% [blood pressure]([Hypertension](../Blood/Hypertension.md) "‌").
+A blood thinner. Using streptokinase will prevent natural [bleeding](../Any%20bodypart/Bleeding.md) regeneration and increases the chance of getting a [Stroke](../Head_Brain/Stroke.md) if the patient has more than 150% [blood pressure](../Blood/Hypertension.md).
 
 ### On application:
 

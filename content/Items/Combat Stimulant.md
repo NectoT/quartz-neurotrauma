@@ -25,7 +25,7 @@ Treats:
 - [Blood Loss](../Blood/Blood%20Loss.md) by 2% per second
 - [Bleeding](../Any%20bodypart/Bleeding.md) by 2% per second
 - [Internal Bleeding](../Torso/Internal%20Bleeding.md) by 2% per second
-- [Wounds](../Any%20bodypart/archived/Wounds.md), including [stitched](Sutures, [Concussion](../Head_Brain/Concussion.md), and [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md) by 2% per second
+- [Wounds](https://trello.com/c/yhDjfTqs), including [stitched](Sutures, [Concussion](../Head_Brain/Concussion.md), and [[Internal Wounds#Internal damage|Internal Damage]] by 2% per second
 - Chem [Withdrawal](../Head_Brain/Withdrawal.md) by 2% per second
 
 Grants 45% to 50% Stun resistance.

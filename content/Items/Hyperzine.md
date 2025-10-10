@@ -16,7 +16,7 @@ A powerful stimulant
 
 ### Application success:
 
-\-12% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\-12% [[Internal Wounds#Internal damage|Internal Damage]]
 \+18% Chem addiction
 \+18% [Neurotrauma](../Head_Brain/Neurotrauma.md)
 \+15% Psychosis
@@ -27,7 +27,7 @@ A powerful stimulant
 
 ### Application failure:
 
-\-6% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\-6% [[Internal Wounds#Internal damage|Internal Damage]]
 \+36% Chem addiction
 \+36% [Neurotrauma](../Head_Brain/Neurotrauma.md)
 \+30% Psychosis

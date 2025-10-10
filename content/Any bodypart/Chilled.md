@@ -20,7 +20,7 @@ The affliction given by the gel ice pack when used. Greatly increases natural re
 ## Effects:
 
 - Slows you down by 5% for each iced limb
-- Increases natural healing of [Blunt Force Trauma]([Wounds](archived/Wounds.md) "‌"), unless if it is over 100 affliction strength
+- Increases natural healing of [Blunt Force Trauma](https://trello.com/c/yhDjfTqs), unless if it is over 100 affliction strength
 - Makes [Infected Wounds](Infected%20Wounds.md) worsen faster
 - -0.2% [Internal Bleeding](../Torso/Internal%20Bleeding.md) per second
 

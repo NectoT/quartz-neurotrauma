@@ -30,14 +30,14 @@ Fractures are common injuries, which most crewmembers will get often. Fractures 
 - 1 leg fracture will halve speed
 - 2 leg fractures will force you to go prone.
 - [Intense Pain](../Symptoms/Intense%20Pain.md)
-- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md), in a [Plaster Cast](../Extremities/Plaster%20Cast.md), or [sedated]([Analgesia](../Torso/Analgesia.md) "‌")
+- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md), in a [Plaster Cast](../Extremities/Plaster%20Cast.md), or [sedated](../Torso/Analgesia.md)
 
 ### In arm fractures:
 
 - 1 arm fracture will prevent you from using that arm (you can't hold 2-handed items anymore)
 - 2 arm fractures will prevent you from interacting with anything, such as doors, ladders, buttons, etc.
 - [Intense Pain](../Symptoms/Intense%20Pain.md)
-- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md), in a [Plaster Cast](../Extremities/Plaster%20Cast.md), or [sedated]([Analgesia](../Torso/Analgesia.md) "‌")
+- [Internal damage]([Internal Wounds](../Any%20bodypart/Internal%20Wounds.md) "‌"), if not [Bandaged](../Any%20bodypart/Bandaged.md), in a [Plaster Cast](../Extremities/Plaster%20Cast.md), or [sedated](../Torso/Analgesia.md)
 
 ### In skull fractures:
 

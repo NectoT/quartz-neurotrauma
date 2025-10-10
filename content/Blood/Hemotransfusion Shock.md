@@ -15,7 +15,7 @@ Hemotransfusion shock is a condition that only occurs when administering an inco
 
 ---
 
-\## Caused by:
+## Caused by:
 
 - Administering incompatible [Blood Packs](../Items/Blood%20Packs.md) (gives 100% strength)
 - Administering [Alien Blood](../Items/Alien%20Blood.md) (gives 99% strength over time)

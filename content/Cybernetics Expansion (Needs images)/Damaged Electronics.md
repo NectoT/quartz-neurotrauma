@@ -26,7 +26,7 @@ The amount of damaged electronics gained scales with the amount of [Material Los
 - 50% chance for bite wounds to cause 25% of their damage as damaged electronics
 - 50% chance for deep tissue damage to cause 50% of its damage as damaged electronics
 - 50% chance for blunt force trauma to cause 100% of its damage as damaged electronics
-- 75% chance for [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)  to cause 100% of its damage as damaged electronics
+- 75% chance for [[Internal Wounds#Internal damage|Internal Damage]]  to cause 100% of its damage as damaged electronics
 - 75% chance for [Foreign Bodies](../Any%20bodypart/Foreign%20Bodies.md)  to cause 75% of its damage as damaged electronics
 
 ## Effects:

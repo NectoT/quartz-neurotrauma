@@ -10,7 +10,7 @@ tags:
 
 ---
 
-Caused by fires, the patient will gain [Burns](Burns.md) over time. A character affected by burning will scream (unless they are [painless]([Analgesia](../Torso/Analgesia.md) "‌")) and be visibly lit on fire.
+Caused by fires, the patient will gain [Burns](Burns.md) over time. A character affected by burning will scream (unless they are [painless](../Torso/Analgesia.md)) and be visibly lit on fire.
 
 ---
 

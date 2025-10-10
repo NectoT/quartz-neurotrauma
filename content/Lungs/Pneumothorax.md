@@ -18,7 +18,7 @@ Pneumothorax will prevent [Hypoxemia](../Blood/Hypoxemia.md) from decreasing in 
 ## Caused by:
 
 - [Fractures](../Bones/Fractures.md) (rib fractures, if they arent bandaged)
-- Trauma (gunshots, explosions, lacerations, bite wounds, blunt force, [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+- Trauma (gunshots, explosions, lacerations, bite wounds, blunt force, [[Internal Wounds#Internal damage|Internal Damage]]
 - [Needle](../Items/Needle.md)
 
 ## Effects:

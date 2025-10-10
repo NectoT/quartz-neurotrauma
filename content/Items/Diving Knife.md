@@ -20,7 +20,7 @@ Removes [Bandages](Bandages.md) on the limb the knife was used on.
 ### Application failure:
 
 \+15% [Bleeding](../Any%20bodypart/Bleeding.md)
-\+10% [lacerations]([Wounds](../Any%20bodypart/archived/Wounds.md) "‌")
+\+10% [[Open Wounds#Lacerations|Lacerations]]
 
 ---
 

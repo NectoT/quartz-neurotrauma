@@ -15,7 +15,7 @@ Kidney damage is usually survivable, as even if it has progressed to kidney fail
 
 ---
 
-\## Caused by:
+## Caused by:
 
 - [Broad-spectrum Antibiotics](../Items/Broad-spectrum%20Antibiotics.md)
 - [Liquid Oxygenite](../Items/Liquid%20Oxygenite.md)

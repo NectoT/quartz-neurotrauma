@@ -17,7 +17,7 @@ A special drug, treating a variety of life-threatening afflictions over 20 secon
 
 ### Application success:
 
-\-20% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\-20% [[Internal Wounds#Internal damage|Internal Damage]]
 \-50% [Blood Loss](../Blood/Blood%20Loss.md)
 \-50% [Bleeding](../Any%20bodypart/Bleeding.md)
 \-100% [Hypoxemia](../Blood/Hypoxemia.md)
@@ -29,7 +29,7 @@ A special drug, treating a variety of life-threatening afflictions over 20 secon
 
 ### Application failure:
 
-\-10% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\-10% [[Internal Wounds#Internal damage|Internal Damage]]
 \-25% [Blood Loss](../Blood/Blood%20Loss.md)
 \-10% [Bleeding](../Any%20bodypart/Bleeding.md)
 \-40% [Hypoxemia](../Blood/Hypoxemia.md)

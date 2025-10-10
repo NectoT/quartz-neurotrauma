@@ -24,7 +24,7 @@ If the patient’s neck fracture is untreated, the spine will become injured aga
 ### Application failure:
 
 \+5% [Bleeding](../Any%20bodypart/Bleeding.md)
-\+5% [Internal Damage](../Any%20bodypart/archived/Internal%20Damage.md)
+\+5% [[Internal Wounds#Internal damage|Internal Damage]]
 
 ---
 
